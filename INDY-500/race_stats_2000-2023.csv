@@ -1,0 +1,793 @@
+finish,start,qual_speed,car_num,driver,car_name,model,status,laps,led,winnings,year
+1,2,223.372,9,Juan Pablo Montoya,Target,G Force/Oldsmobile,167.607,200,167,1235690,2000
+2,16,220.482,91,Buddy Lazier,Delta Faucet/Coors Light/Tae-Bo/Hemelgarn,Dallara/Oldsmobile,167.495,200,0,574600,2000
+3,3,223.231,11,Eliseo Salazar,Rio A.J. Foyt Racing,G Force/Oldsmobile,167.362,200,0,474900,2000
+4,6,222.639,14,Jeff Ward,Harrah's A.J. Foyt Racing,G Force/Oldsmobile,167.32,200,0,361000,2000
+5,10,221.27,51,Eddie Cheever Jr.,#51 Excite@Home Indy Race Car,Dallara/Nissan Infiniti,167.315,200,0,364500,2000
+6,4,222.885,32,Robby Gordon,Turtle Wax/Burger King/Moen/JM,Dallara/Oldsmobile,167.309,200,0,216355,2000
+7,7,221.976,10,Jimmy Vasser,Target,G Force/Oldsmobile,Running,199,5,207505,2000
+8,20,219.97,7,Stephan Gregoire,Mexmil/Tokheim/Viking Air Tools,G Force/Oldsmobile,Running,199,0,306900,2000
+9,13,220.629,4,Scott Goodyear,Pennzoil Panther,Dallara/Oldsmobile,Running,199,0,348800,2000
+10,5,222.81,8,Scott Sharp,Delphi Automotive Systems/MCI WorldCom,Dallara/Oldsmobile,Running,198,0,313000,2000
+11,11,220.97,28,Mark Dismore,On Star/GM BuyPower/Bryant H. & C.,Dallara/Oldsmobile,Running,198,0,294500,2000
+12,15,220.482,98,Donnie Beechler,Cahill Racing,Dallara/Oldsmobile,Running,198,0,283000,2000
+13,26,220.675,33,Jaques Lazier,Miles of Hope/Truscelli Team Racing,G Force/Oldsmobile,Running,198,0,290250,2000
+14,29,219.322,6,Jeret Schroeder,Kroger/Tri Star Motorsports Inc.,Dallara/Oldsmobile,Running,198,0,279000,2000
+15,31,218.872,41,Billy Boat,Harrah's A.J. Foyt Racing,G Force/Oldsmobile,Running,198,0,211000,2000
+16,24,222.113,55,Raul Boesel,Epson,G Force/Oldsmobile,Running,197,0,213000,2000
+17,17,220.417,50,Jason Leffler,UnitedAuto Group,G Force/Oldsmobile,Running,197,0,170905,2000
+18,22,219.862,12,Buzz Calkins,Bradley Motorsports/Team CAN,Dallara/Oldsmobile,Running,194,0,169000,2000
+19,27,220.29,23,Steve Knapp,Dreyer & Reinbold Racing,G Force/Nissan Infiniti,Running,193,0,167000,2000
+20,28,219.878,16,Davey Hamilton,FreeInternet.com/TeamXtreme,G Force/Oldsmobile,Running,188,0,166500,2000
+21,12,220.661,5,Robby McGehee,Meijer/Energizer Advanced Formula/Mall.com,G Force/Oldsmobile,Running,187,2,281400,2000
+22,30,219.066,22,Johnny Unser,Delco Remy/Microdigicom/Homier Tools,G Force/Oldsmobile,Running,186,0,161000,2000
+23,8,221.508,92,Stan Wattles,Hemelgarn/Metro Racing,Dallara/Oldsmobile,Engine,172,0,159000,2000
+24,14,220.496,18,Sam Hornish Jr.,Hornish Bros. Trucking/APC,Dallara/Oldsmobile,Accident,153,0,268250,2000
+25,21,219.97,88,Airton Daré,TeamXtreme/USACredit.com/FreeInternet.com,G Force/Oldsmobile,Engine,126,0,262250,2000
+26,9,221.357,24,Robbie Buhl,Team Purex Dreyer & Reinbold Racing,G Force/Oldsmobile,Engine,99,0,258500,2000
+27,23,219.816,75,Richie Hearn,Pagan Racing,Dallara/Oldsmobile,Electrical,97,0,155000,2000
+28,33,218.285,48,Andy Hillenburg,SUMAR Special by Irwindale Speedway,Dallara/Oldsmobile,Wheel bearing,91,0,154250,2000
+29,18,220.293,3,Al Unser Jr.,Galles ECR Racing Tickets.com Starz,G Force/Oldsmobile,Overheating,89,0,256000,2000
+30,25,220.718,27,Jimmy Kite,Big Daddy's BBQ/Founders Bank,G Force/Oldsmobile,Engine,74,0,164000,2000
+31,19,220.237,15,Sarah Fisher,Walker Racing Cummins,Dallara/Oldsmobile,Accident,71,0,165750,2000
+32,32,218.826,90,Lyn St. James,Yellow Freight Systems,G Force/Oldsmobile,Accident,69,0,152000,2000
+33,1,223.471,1,Greg Ray,Team Conseco/Quaker State/Menards,Dallara/Oldsmobile,Accident,67,26,388700,2000
+1,11,224.142,68,Helio Castroneves,Marlboro Team Penske,Dallara/Oldsmobile,141.574,200,52,1270475,2001
+2,5,224.406,66,Gil de Ferran,Marlboro Team Penske,Dallara/Oldsmobile,141.555,200,27,482775,2001
+3,21,223.441,39,Michael Andretti,Motorola/Archipelago,Dallara/Oldsmobile,141.51,200,16,346225,2001
+4,12,223.455,44,Jimmy Vasser,Target Chip Ganassi Racing,G Force/Oldsmobile,141.419,200,0,233325,2001
+5,20,224.208,50,Bruno Junqueira,Target Chip Ganassi Racing,G Force/Oldsmobile,141.271,200,0,255825,2001
+6,7,224.248,33,Tony Stewart,Target Chip Ganassi Racing,G Force/Oldsmobile,141.157,200,13,218850,2001
+7,28,223.74,14,Eliseo Salazar,Harrah's A.J. Foyt Racing,Dallara/Oldsmobile,Running,199,0,356300,2001
+8,30,222.236,88,Airton Daré,1-800-BAR NONE TeamXtreme,G Force/Oldsmobile,Running,199,0,320325,2001
+9,32,221.528,98,Billy Boat,CURB Records,Dallara/Oldsmobile,Running,199,0,337325,2001
+10,33,221.879,21,Felipe Giaffone,Hollywood,G Force/Oldsmobile,Running,199,0,211575,2001
+11,14,222.607,10,Robby McGehee,Cahill Racing Cure Autism Now,Dallara/Oldsmobile,Running,199,0,290825,2001
+12,24,222.467,12,Buzz Calkins,Bradley Food Marts/Sav-O-Mat,Dallara/Oldsmobile,Running,198,0,286025,2001
+13,6,224.257,5,Arie Luyendyk,Meijer,G Force/Oldsmobile,Running,198,1,182275,2001
+14,13,223.333,4,Sam Hornish Jr.,Pennzoil Panther,Dallara/Oldsmobile,Running,196,0,308825,2001
+15,9,224.213,24,Robbie Buhl,Team Purex Dreyer & Reinbold Racing,G Force/Infiniti,Running,196,0,300325,2001
+16,4,224.964,28,Mark Dismore,Delphi Auto. Systems/Bryant H. & C.,Dallara/Oldsmobile,Running,195,29,287375,2001
+17,2,225.194,2,Greg Ray,Johns Manville/Menards,Dallara/Oldsmobile,Running,192,40,335325,2001
+18,10,224.19,91,Buddy Lazier,Tae-Bo/Coors Light/Delta Faucet,Dallara/Oldsmobile,Running,192,0,262325,2001
+19,31,221.621,16,Cory Witherill,Radio Shack,G Force/Oldsmobile,Running,187,0,159575,2001
+20,23,222.786,9,Jeret Schroeder,Purity Products,Dallara/Oldsmobile,Running,187,0,256325,2001
+21,3,224.994,41,Robby Gordon,Team Conseco/Foyt/RCR Childress Racing,Dallara/Oldsmobile,Running,184,22,173225,2001
+22,17,222.145,77,Jaques Lazier,Classmates.com/Jonathan Byrd's Cafeteria,G Force/Oldsmobile,Running,183,0,161325,2001
+23,26,221.696,99,Davey Hamilton,Sam Schmidt Motorsports Racing,Dallara/Oldsmobile,Engine,182,0,280325,2001
+24,8,224.222,35,Jeff Ward,Aerosmith/Heritage Motorsports/Menards,G Force/Oldsmobile,Running,168,0,248325,2001
+25,27,224.449,84,Donnie Beechler,Harrah's A.J. Foyt Racing,Dallara/Oldsmobile,Running,160,0,172325,2001
+26,25,222.152,51,Eddie Cheever Jr.,#51 Excite@Home Indy Race Car,Dallara/Infiniti,Electrical,108,0,247325,2001
+27,18,222.015,6,Jon Herb,Tri Star Motorsports Inc.,Dallara/Oldsmobile,Accident,104,0,245575,2001
+28,29,222.888,36,Stephan Gregoire,Heritage Motorsports/Delco Remy/Menards,G Force/Oldsmobile,Oil leak,86,0,154325,2001
+29,22,223.006,49,Nicolas Minassian,Target Chip Ganassi Racing,G Force/Oldsmobile,Gearbox,74,0,149575,2001
+30,19,221.615,3,Al Unser Jr.,Galles Racing Starz SuperPak Budweiser,G Force/Oldsmobile,Accident,16,0,255825,2001
+31,15,222.548,15,Sarah Fisher,Walker Racing Kroger,Dallara/Oldsmobile,Accident,7,0,247325,2001
+32,16,222.529,52,Scott Goodyear,#52 Thermos Grill2Go Cheever Indy Racing,Dallara/Infiniti,Accident,7,0,143325,2001
+33,1,226.037,8,Scott Sharp,Delphi Automotive Systems,Dallara/Oldsmobile,Accident,0,0,427325,2001
+1,13,229.052,3,Helio Castroneves,Marlboro Team Penske,Dallara/Chevrolet,166.499,200,24,1606215,2002
+2,29,228.006,26,Paul Tracy,Team Green 7-Eleven,Dallara/Chevrolet,166.484,200,0,489315,2002
+3,4,230.326,21,Felipe Giaffone,Hollywood Mo Nunn Racing,G Force/Chevrolet,166.482,200,12,480315,2002
+4,26,228.58,44,Alex Barron,Rayovac Blair Racing,Dallara/Chevrolet,166.477,200,7,412115,2002
+5,6,229.786,51,Eddie Cheever Jr.,Red Bull Cheever Racing,Dallara/Infiniti,166.461,200,0,348515,2002
+6,22,227.233,20,Richie Hearn,Grill 2 Go Sam Schmidt Motorsports,Dallara/Chevrolet,166.45,200,0,330815,2002
+7,25,228.713,39,Michael Andretti,Motorola/Archipelago,Dallara/Chevrolet,166.444,200,0,218715,2002
+8,11,229.127,31,Robby Gordon,Menards/Childress/Cingular,Dallara/Chevrolet,166.405,200,0,204000,2002
+9,15,228.557,9,Jeff Ward,Target Chip Ganassi Racing,G Force/Chevrolet,166.383,200,0,308815,2002
+10,14,228.671,6,Gil de Ferran,Marlboro Team Penske,Dallara/Chevrolet,166.061,200,13,293165,2002
+11,21,227.24,22,Kenny Brack,Target Chip Ganassi Racing,G Force/Chevrolet,165.995,200,0,188315,2002
+12,12,229.058,7,Al Unser Jr.,Corteco/Bryant,Dallara/Chevrolet,Running,199,1,288765,2002
+13,30,227.76,14,Airton Daré,Harrah's A.J. Foyt Racing,Dallara/Chevrolet,Running,199,0,281815,2002
+14,24,228.848,55,Arie Luyendyk,Meijer,G Force/Chevrolet,Running,199,0,338815,2002
+15,20,227.495,91,Buddy Lazier,Coors Light/Life Fitness/Tae-Bo/Delta Faucet,Dallara/Chevrolet,Accident,198,0,277615,2002
+16,2,231.033,24,Robbie Buhl,Team Purex/Aventis/Dreyer & Reinbold Racing,G Force/Infiniti,Running,198,0,288315,2002
+17,32,227.15,30,George Mack,310 Racing,G Force/Chevrolet,Running,198,0,283565,2002
+18,23,226.589,98,Billy Boat,CURB Records,Dallara/Chevrolet,Running,198,0,286315,2002
+19,28,228.177,27,Dario Franchitti,Team Green 7-Eleven,Dallara/Chevrolet,Running,197,0,153565,2002
+20,27,228.192,12,Shigeaki Hattori,Epson,Dallara/Infiniti,Running,197,0,161565,2002
+21,3,230.613,2,Raul Boesel,Menards/Johns Manville,Dallara/Chevrolet,Running,197,0,268315,2002
+22,16,228.106,34,Laurent Redon,Mi-Jack,Dallara/Infiniti,Accident,197,0,256565,2002
+23,18,227.941,53,Max Papis,Red Bull Cheever Racing,Dallara/Infiniti,Running,196,0,153565,2002
+24,9,229.439,23,Sarah Fisher,Team Allegra/Dreyer & Reinbold Racing,G Force/Infiniti,Running,196,0,163315,2002
+25,7,229.585,4,Sam Hornish Jr.,Pennzoil Panther,Dallara/Chevrolet,Running,186,0,253815,2002
+26,10,229.058,52,Tomas Scheckter,Red Bull Cheever Racing,Dallara/Infiniti,Accident,172,85,294815,2002
+27,8,229.486,8,Scott Sharp,Delphi,Dallara/Chevrolet,Accident,137,3,255665,2002
+28,5,230.253,17,Tony Kanaan,Hollywood Mo Nunn Racing,G Force/Chevrolet,Accident,89,23,167665,2002
+29,17,228.039,5,Rick Treadway,Sprint/Kyocera Wireless/Airlink Enterprises,G Force/Chevrolet,Accident,88,0,147565,2002
+30,19,227.743,19,Jimmy Vasser,Miller Lite/Rahal Letterman Racing,Dallara/Chevrolet,Gearbox,87,0,151315,2002
+31,1,231.342,33,Bruno Junqueira,Target Chip Ganassi Racing,G Force/Chevrolet,Gearbox,87,32,282715,2002
+32,33,227.096,99,Mark Dismore,Grill 2 Go Sam Schmidt Motorsports,Dallara/Chevrolet,Handling,58,0,145315,2002
+33,31,227.155,11,Greg Ray,AJ Foyt Racing/Harrah's,Dallara/Chevrolet,Accident,28,0,245315,2002
+1,10,228.633,6,Gil de Ferran,Marlboro Team Penske,Panoz G Force/Toyota,156.291,200,31,1353265,2003
+2,1,231.725,3,Helio Castroneves,Marlboro Team Penske,Dallara/Toyota,156.287,200,58,739665,2003
+3,2,231.006,11,Tony Kanaan,Team 7-Eleven,Dallara/Honda,156.274,200,2,486465,2003
+4,12,227.769,10,Tomas Scheckter,Target Chip Ganassi Racing,Panoz G Force/Toyota,156.268,200,63,448415,2003
+5,7,229.358,12,Tora Takagi,Pioneer Mo Nunn Racing,Panoz G Force/Toyota,156.264,200,2,363515,2003
+6,25,227.274,20,Alex Barron,Meijer Mo Nunn Racing,Panoz G Force/Toyota,156.209,200,0,297265,2003
+7,8,228.765,32,Tony Renna,Cure Autism Now/HomeMed,Dallara/Toyota,156.189,200,0,206315,2003
+8,14,227.288,13,Greg Ray,TrimSpa,Panoz G Force/Honda,156.134,200,0,299065,2003
+9,17,226.285,31,Al Unser Jr.,Corteco,Dallara/Toyota,156.055,200,0,296565,2003
+10,11,228.577,55,Roger Yasukawa,Panasonic ARTA,Dallara/Honda,155.32,199,0,288815,2003
+11,19,226.213,52,Buddy Rice,Red Bull Cheever Racing,Dallara/Chevrolet,Running,199,0,323315,2003
+12,26,227.158,22,Vitor Meira,Metabolife/Johns Manville/Menards,Dallara/Chevrolet,Running,199,0,192315,2003
+13,32,224.195,18,Jimmy Kite,Denny Hecker's Auto Connection,Dallara/Chevrolet,Running,197,0,273565,2003
+14,15,227.222,54,Shinji Nakano,Beard Papa's,Dallara/Honda,Running,196,0,269315,2003
+15,18,226.225,4,Sam Hornish Jr.,Pennzoil Panther,Dallara/Chevrolet,Engine,195,0,271065,2003
+16,6,229.509,15,Kenny Brack,Rahal/Letterman/Miller Lite/Pioneer,Dallara/Honda,Running,195,0,271065,2003
+17,4,230.099,9,Scott Dixon,Target Chip Ganassi Racing,Panoz G Force/Toyota,Accident,191,15,304315,2003
+18,23,224.177,14,A.J. Foyt IV,Conseco/A.J. Foyt Racing,Dallara/Toyota,Running,189,0,264315,2003
+19,5,229.958,26,Dan Wheldon,Klein Tools/Jim Beam,Dallara/Honda,Accident,186,0,161815,2003
+20,9,228.755,8,Scott Sharp,Delphi,Dallara/Toyota,Accident,181,0,257815,2003
+21,21,224.91,91,Buddy Lazier,Victory Brand/Delta Faucet/Life Fitness,Dallara/Chevrolet,Engine,171,0,276065,2003
+22,3,230.205,27,Robby Gordon,Archipelago/Motorola,Dallara/Honda,Gearbox,169,0,256250,2003
+23,22,224.369,24,Robbie Buhl,Purex/Aventis/Dreyer & Reinbold,Dallara/Chevrolet,Engine,147,0,252065,2003
+24,33,223.609,41,Airton Daré,Conseco A.J. Foyt Racing,Panoz G Force/Toyota,Accident,125,0,166065,2003
+25,31,224.493,44,Robby McGehee,Pedigo Chevrolet Panther Racing,Dallara/Chevrolet,Steering,125,0,151565,2003
+26,27,226.873,19,Jimmy Vasser,Argent Rahal/Letterman Racing,Dallara/Honda,Gearbox,102,1,161265,2003
+27,13,227.739,7,Michael Andretti,Team 7-Eleven,Dallara/Honda,Throttle linkage,94,28,259415,2003
+28,28,225.863,99,Richie Hearn,Contour Hardening/Curb Agajanian/SSM,Panoz G Force/Toyota,Accident,61,0,142565,2003
+29,20,225.975,2,Jaques Lazier,Menards/Johns Manville,Dallara/Chevrolet,Accident,61,0,240315,2003
+30,30,224.589,5,Shigeaki Hattori,Epson/A.J. Foyt Racing,Dallara/Toyota,Fuel System,19,0,240065,2003
+31,24,224.17,23,Sarah Fisher,AOL/GMAC/Raybestos/DRR,Dallara/Chevrolet,Engine/accident,14,0,244065,2003
+32,29,225.598,98,Billy Boat,Pedigo Chevrolet Panther Racing,Dallara/Chevrolet,Engine,7,0,139065,2003
+33,16,227.21,21,Felipe Giaffone,Hollywood Mo Nunn Racing,Panoz G Force/Toyota,Electrical,6,0,242815,2003
+1,1,222.024,15,Buddy Rice,Rahal-Letterman Argent/Pioneer,Panoz G Force/Honda,138.518,180,91,1761740,2004
+2,5,221.2,11,Tony Kanaan,Team 7-Eleven,Dallara/Honda,138.516,180,28,659240,2004
+3,2,221.524,26,Dan Wheldon,Klein Tools/Jim Beam,Dallara/Honda,138.491,180,26,533040,2004
+4,23,219.871,7,Bryan Herta,XM Satellite Radio,Dallara/Honda,138.489,180,3,366440,2004
+5,4,221.379,36,Bruno Junqueira,PacifiCare/Secure Horizons,Panoz G Force/Honda,138.474,180,16,296240,2004
+6,7,220.958,17,Vitor Meira,Rahal-Letterman Team Centrix,Panoz G Force/Honda,138.463,180,0,301240,2004
+7,6,220.999,5,Adrian Fernandez,Quaker State Telmex Tecate,Panoz G Force/Honda,138.459,180,3,294740,2004
+8,13,219.319,1,Scott Dixon,Target Chip Ganassi Racing,Panoz G Force/Toyota,138.431,180,0,283740,2004
+9,8,222.882,3,Helio Castroneves,Marlboro Team Penske,Dallara/Toyota,138.414,180,0,311990,2004
+10,12,220.03,16,Roger Yasukawa,Rahal-Letterman Racing Sammy,Panoz G Force/Honda,138.401,180,0,261740,2004
+11,9,220.74,55,Kosuke Matsuura,Panasonic ARTA,Panoz G Force/Honda,138.386,180,0,294740,2004
+12,24,218.836,51,Alex Barron,Red Bull Cheever Racing,Dallara/Chevrolet,138.325,180,3,269240,2004
+13,20,215.635,8,Scott Sharp,Delphi,Dallara/Toyota,138.309,180,0,253990,2004
+14,3,221.471,27,Dario Franchitti,Arca/Ex,Dallara/Honda,138.297,180,1,255740,2004
+15,25,216.259,24,Felipe Giaffone,Team Purex/Dreyer & Reinbold,Dallara/Chevrolet,Running,179,0,249490,2004
+16,29,214.783,21,Jeff Simmons,Pioneer Mo Nunn Racing,Dallara/Toyota,Running,179,0,224990,2004
+17,17,217.966,20,Al Unser Jr.,Patrick Racing,Dallara/Chevrolet,Running,179,0,220740,2004
+18,10,220.417,4,Tomas Scheckter,Pennzoil Panther,Dallara/Chevrolet,Running,179,0,234240,2004
+19,26,214.364,12,Tora Takagi,Pioneer Mo Nunn Racing,Dallara/Toyota,Running,179,0,230740,2004
+20,30,213.715,33,Richie Hearn,Lucas Oil Products/Sam Schmidt,Panoz G Force/Toyota,Running,178,0,207740,2004
+21,19,215.771,39,Sarah Fisher,Bryant Heating & Cooling/Cure Autism Now,Dallara/Toyota,Running,177,0,208740,2004
+22,33,211.631,18,Robby McGehee,Burger King Angus Steak Burger PDM,Dallara/Chevrolet,Running,177,0,202740,2004
+23,28,215.11,91,Buddy Lazier,LifeFitness DRR/Hemelgarn Racing,Dallara/Chevrolet,Fuel system,164,0,212240,2004
+24,32,211.974,25,Marty Roth,Roth Racing,Dallara/Toyota,Accident,128,0,203990,2004
+25,15,219.271,10,Darren Manning,Target Chip Ganassi Racing,G Force/Toyota,Accident,104,0,227490,2004
+26,11,220.18,6,Sam Hornish Jr.,Marlboro Team Penske,Dallara/Toyota,Accident,104,9,223240,2004
+27,27,216.641,13,Greg Ray,Access Motorsports,G Force/Honda,Accident,98,0,239735,2004
+28,31,213.355,98,PJ Jones,CURB Records,Dallara/Chevrolet,Accident,92,0,195490,2004
+29,18,216.522,70,Robby Gordon,Meijer/Coca-Cola Robby Gordon,Dallara/Chevrolet,Mechanical,88,0,192420,2004
+30,14,219.282,2,Mark Taylor,Menards/Johns Manville Racing,Dallara/Chevrolet,Accident,62,0,211990,2004
+31,16,218.59,52,Ed Carpenter,Red Bull Cheever Racing,Dallara/Chevrolet,Accident,62,0,212485,2004
+32,22,213.277,41,Larry Foyt,A.J. Foyt Racing,G Force/Toyota,Accident,54,0,192485,2004
+33,21,214.256,14,A.J. Foyt IV,Conseco/A.J. Foyt Racing,Dallara/Toyota,Handling,26,0,215735,2004
+1,16,224.308,26,Dan Wheldon,Klein Tools/Jim Beam,Dallara/Honda,157.603,200,30,1537805,2005
+2,7,226.848,17,Vitor Meira,Rahal Letterman Menards Johns Manville,Panoz/Honda,157.602,200,3,656955,2005
+3,18,223.972,7,Bryan Herta,XM Satellite Radio,Dallara/Honda,157.601,200,0,457505,2005
+4,4,227.004,16,Danica Patrick,Rahal Letterman Racing Argent Pioneer,Panoz/Honda,157.541,200,19,378855,2005
+5,9,226.353,95,Buddy Lazier,Panther/Jonathan Byrd's/ESPN 950 AM,Dallara/Chevrolet,157.537,200,0,288805,2005
+6,6,226.873,27,Dario Franchitti,ArcaEx,Dallara/Honda,157.532,200,15,309055,2005
+7,3,227.126,8,Scott Sharp,Delphi,Panoz/Honda,157.526,200,0,295305,2005
+8,1,227.566,11,Tony Kanaan,Team 7-Eleven,Dallara/Honda,157.516,200,54,467105,2005
+9,5,226.927,3,Helio Castroneves,Marlboro Team Penske,Dallara/Toyota,157.496,200,0,277805,2005
+10,24,224.08,33,Ryan Briscoe,Target Chip Ganassi Racing,Panoz/Toyota,Running,199,0,273555,2005
+11,26,221.439,20,Ed Carpenter,Vision Racing,Dallara/Toyota,Running,199,0,258305,2005
+12,15,224.955,37,Sebastien Bourdais,Newman Haas Racing Team Centrix,Panoz/Honda,Accident,198,0,234555,2005
+13,22,221.053,51,Alex Barron,Red Bull Cheever Racing,Dallara/Toyota,Running,197,0,254805,2005
+14,14,225.12,5,Adrian Fernandez,Investment Properties of America,Panoz/Honda,Running,197,0,226305,2005
+15,33,217.645,48,Felipe Giaffone,A.J. Foyt Racing,Panoz/Toyota,Running,194,0,247305,2005
+16,27,221.228,21,Jaques Lazier,Playa Del Racing,Panoz/Toyota,Running,189,0,219305,2005
+17,8,226.397,55,Kosuke Matsuura,Panasonic ARTA,Panoz/Honda,Accident,186,0,236305,2005
+18,17,224.131,24,Roger Yasukawa,Dreyer & Reinbold Racing,Dallara/Honda,Mechanical,167,0,233305,2005
+19,10,226.107,2,Tomas Enge,ROCKSTAR Panther Racing,Dallara/Chevrolet,Accident,155,0,232055,2005
+20,11,226.031,4,Tomas Scheckter,Pennzoil Panther,Dallara/Chevrolet,Accident,154,0,257305,2005
+21,25,222.803,83,Patrick Carpentier,Red Bull Cheever Racing,Dallara/Toyota,Mechanical,153,0,231055,2005
+22,21,221.521,44,Jeff Bucknum,Investment Properties of America,Dallara/Honda,Accident,150,0,222555,2005
+23,2,227.273,6,Sam Hornish Jr.,Marlboro Team Penske,Dallara/Toyota,Accident,146,77,391455,2005
+24,13,225.215,9,Scott Dixon,Target Chip Ganassi Racing,Panoz/Toyota,Accident,113,0,225805,2005
+25,20,222.707,70,Richie Hearn,Meijer/Coca-Cola Racing Special,Panoz/Chevrolet,Accident,112,0,202305,2005
+26,23,227.598,15,Kenny Brack,Rahal Letterman Racing Argent Pioneer,Panoz/Honda,Mechanical,92,0,275805,2005
+27,31,218.714,22,Jeff Ward,Vision Racing,Dallara/Toyota,Handling,92,0,194805,2005
+28,28,220.442,14,A.J. Foyt IV,A.J. Foyt Racing,Dallara/Toyota,Handling,84,0,218805,2005
+29,19,223.943,10,Darren Manning,Target Chip Ganassi Racing,Panoz/Toyota,Mechanical,82,0,212805,2005
+30,12,225.704,36,Bruno Junqueira,Newman Haas Racing Team Centrix,Panoz/Honda,Accident,76,2,192205,2005
+31,29,219.497,25,Marty Roth,Roth Racing/PDM Racing,Dallara/Chevrolet,Handling,47,0,195305,2005
+32,32,218.565,91,Jimmy Kite,Ethanol Hemelgarn Racing,Dallara/Toyota,Handling,47,0,210305,2005
+33,30,219.396,41,Larry Foyt,ABC Supply Co.,Dallara/Toyota,Accident,14,0,189305,2005
+1,1,228.985,6,Sam Hornish Jr.,Marlboro Team Penske,Dallara/Honda,157.085,200,19,1744855,2006
+2,9,224.918,26,Marco Andretti,NYSE Group,Dallara/Honda,157.084,200,2,688505,2006
+3,13,224.508,1,Michael Andretti,Jim Beam/Vonage,Dallara/Honda,157.071,200,4,455105,2006
+4,3,227.338,10,Dan Wheldon,Target Chip Ganassi Racing,Dallara/Honda,157.068,200,148,571405,2006
+5,5,226.776,11,Tony Kanaan,Team 7-Eleven,Dallara/Honda,157.063,200,12,340405,2006
+6,4,226.921,9,Scott Dixon,Target Chip Ganassi Racing,Dallara/Honda,157.043,200,6,361005,2006
+7,17,223.345,27,Dario Franchitti,Klein Tools/Canadian Club,Dallara/Honda,157.008,200,0,307905,2006
+8,10,224.674,16,Danica Patrick,Rahal Letterman Racing Team Argent,Panoz/Honda,157.007,200,0,285805,2006
+9,8,225.321,8,Scott Sharp,Delphi,Dallara/Honda,156.933,200,0,283805,2006
+10,6,226.156,4,Vitor Meira,Harrah's Panther,Dallara/Honda,156.839,200,0,267705,2006
+11,12,224.548,20,Ed Carpenter,Vision Racing,Dallara/Honda,Running,199,0,264805,2006
+12,25,220.922,5,Buddy Lazier,Dreyer & Reinbold Racing,Dallara/Honda,Running,199,0,274805,2006
+13,19,222.028,51,Eddie Cheever Jr.,Cheever Racing,Dallara/Honda,Running,198,0,255805,2006
+14,18,222.058,52,Max Papis,Cheever Racing,Dallara/Honda,Running,197,0,229305,2006
+15,7,225.503,55,Kosuke Matsuura,Panasonic ARTA,Dallara/Honda,Running,196,0,247805,2006
+16,28,218.793,12,Roger Yasukawa,Playa Del Racing,Panoz/Honda,Running,194,0,228805,2006
+17,24,221.151,21,Jaques Lazier,Playa Del Racing,Panoz/Honda,Running,193,0,219305,2006
+18,29,218.17,88,Airton Daré,OCTANE Motors/Sanitec/SSM,Panoz/Honda,Running,193,0,216805,2006
+19,32,215.816,98,PJ Jones,CURB Records,Panoz/Honda,Running,189,0,214305,2006
+20,16,224.179,7,Bryan Herta,XM Satellite Radio,Dallara/Honda,Running,188,0,234805,2006
+21,21,221.542,14,Felipe Giaffone,ABC Supply Co./A.J. Foyt Racing,Dallara/Honda,Accident,177,0,227305,2006
+22,15,224.374,90,Townsend Bell,Rock & Republic,Dallara/Honda,Suspension,161,0,204555,2006
+23,26,220.347,17,Jeff Simmons,Rahal Letterman Racing Team Ethanol,Panoz/Honda,Accident,152,0,222305,2006
+24,27,219.388,31,Al Unser Jr.,A1 Team USA Geico Dreyer & Reinbold,Dallara/Honda,Accident,145,0,200305,2006
+25,2,228.008,3,Helio Castroneves,Marlboro Team Penske,Dallara/Honda,Accident,109,9,290355,2006
+26,14,224.393,15,Buddy Rice,Rahal Letterman Racing Team Argent,Panoz/Honda,Accident,108,0,224805,2006
+27,11,224.659,2,Tomas Scheckter,Vision Racing,Dallara/Honda,Accident,65,0,215305,2006
+28,31,216.352,61,Arie Luyendyk Jr.,CheapCaribbean.com/Blue Star Jets,Panoz/Honda,Handling,54,0,196055,2006
+29,30,217.428,97,Stephan Gregoire,Effen Vodka Team Leader Special,Panoz/Honda,Handling,49,0,193305,2006
+30,23,221.332,41,Larry Foyt,AJ Foyt Racing,Dallara/Honda,Handling,43,0,192305,2006
+31,33,215.729,18,Thiago Medeiros,PDM Racing,Panoz/Honda,Electrical,24,0,227555,2006
+32,22,221.461,92,Jeff Bucknum,Life Fitness,Dallara/Honda,Accident,1,0,193805,2006
+33,20,221.576,91,P.J. Chesson,Carmelo Hemelgarn Racing,Dallara/Honda,Accident,1,0,211555,2006
+1,3,225.191,27,Dario Franchitti,Canadian Club,Dallara/Honda,151.774,166,34,1645233,2007
+2,4,225.122,9,Scott Dixon,Target Chip Ganassi Racing,Dallara/Honda,151.769,166,11,719067,2007
+3,1,225.817,3,Helio Castroneves,Team Penske,Dallara/Honda,151.746,166,19,646303,2007
+4,5,225.109,6,Sam Hornish Jr.,Team Penske,Dallara/Honda,151.703,166,2,360389,2007
+5,7,224.41,12,Ryan Briscoe,Symantec Luczo Dragon Racing,Dallara/Honda,151.649,166,0,302305,2007
+6,12,223.875,8,Scott Sharp,Patron Sharp Rahal Letterman,Dallara/Honda,151.63,166,0,368305,2007
+7,10,222.877,2,Tomas Scheckter,Vision Racing,Dallara/Honda,151.599,166,0,304105,2007
+8,8,224.076,7,Danica Patrick,Motorola,Dallara/Honda,151.537,166,0,298005,2007
+9,20,222.327,2,Davey Hamilton,HP Vision Racing,Dallara/Honda,151.502,166,0,268905,2007
+10,19,222.333,4,Vitor Meira,Delphi Panther,Dallara/Honda,151.471,166,0,280305,2007
+11,13,223.693,17,Jeff Simmons,Rahal Letterman Racing Team Ethanol,Dallara/Honda,151.445,166,1,278347,2007
+12,2,225.757,11,Tony Kanaan,Team 7-Eleven,Dallara/Honda,151.235,166,83,414319,2007
+13,11,222.789,39,Michael Andretti,Motorola/Jim Beam,Dallara/Honda,150.489,166,1,238247,2007
+14,18,222.413,22,A.J. Foyt IV,Vision Racing,Dallara/Honda,Running,165,0,252305,2007
+15,26,220.471,98,Alex Barron,Lenovo/CURB Records,Dallara/Honda,Running,165,0,249305,2007
+16,17,222.595,55,Kosuke Matsuura,Panasonic Panther,Dallara/Honda,Running,165,0,245305,2007
+17,14,223.495,20,Ed Carpenter,Hitachi Power Tools Vision Racing,Dallara/Honda,Accident,164,0,246305,2007
+18,21,221.96,5,Sarah Fisher,Dreyer & Reinbold Racing,Dallara/Honda,Running,164,0,238305,2007
+19,22,221.38,99,Buddy Lazier,Sam Schmidt Motorsports,Dallara/Honda,Running,164,0,216805,2007
+20,15,223.471,14,Darren Manning,ABC Supply Co./AJ Foyt Racing,Dallara/Honda,Running,164,0,232305,2007
+21,23,222.654,24,Roger Yasukawa,Wellman Corbier/DRR,Dallara/Honda,Running,164,0,234305,2007
+22,6,224.641,10,Dan Wheldon,Target Chip Ganassi Racing,Dallara/Honda,Accident,163,0,231805,2007
+23,32,219.86,91,Richie Hearn,Hemelgarn/Racing Professionals,Dallara/Honda,Running,163,0,224305,2007
+24,9,223.299,26,Marco Andretti,NYSE Group,Dallara/Honda,Accident,162,13,229351,2007
+25,16,222.826,15,Buddy Rice,A1TeamUSA/DRR,Dallara/Honda,Accident,162,0,222805,2007
+26,25,220.876,50,Al Unser Jr.,AJ Foyt Racing,Dallara/Honda,Running,161,0,205805,2007
+27,28,219.409,21,Jaques Lazier,Indiana Ice / Venture Logistics,Panoz/Honda,Accident,155,2,207389,2007
+28,30,218.922,25,Marty Roth,Roth Racing,Dallara/Honda,Accident,148,0,216305,2007
+29,33,219.637,31,Phil Giebler,Ethos Fuel Reformulator,Panoz/Honda,Accident,106,0,230305,2007
+30,24,221.756,33,John Andretti,Camping World Panther,Dallara/Honda,Accident,95,0,204305,2007
+31,29,219.228,23,Milka Duno,CITGO Racing,Dallara/Honda,Accident,65,0,213555,2007
+32,27,220.108,19,Jon Herb,Racing Professionals,Dallara/Honda,Accident,51,0,193305,2007
+33,31,220.299,77,Roberto Moreno,Chastain Motorsports Z-Line Designs Miller Eads,Panoz/Honda,Accident,36,0,224805,2007
+1,1,226.366,9,Scott Dixon,Target Chip Ganassi Racing,Dallara/Honda,143.567,200,115,2988065,2008
+2,8,224.346,4,Vitor Meira,Delphi National Guard,Dallara/Honda,143.547,200,12,1273215,2008
+3,7,224.417,26,Marco Andretti,Team Indiana Jones presented by Blockbuster,Dallara/Honda,143.541,200,15,782065,2008
+4,4,225.733,3,Helio Castroneves,Team Penske,Dallara/Honda,143.496,200,0,482815,2008
+5,10,223.835,20,Ed Carpenter,Menards/ Vision Racing,Dallara/Honda,143.492,200,3,399665,2008
+6,20,221.579,17,Ryan Hunter-Reay,Rahal Letterman Racing Team Ethanol,Dallara/Honda,143.487,200,0,328065,2008
+7,9,223.887,27,Hideki Mutoh,Formula Dream,Dallara/Honda,143.477,200,0,307115,2008
+8,17,222.101,15,Buddy Rice,Dreyer & Reinbold Racing,Dallara/Honda,143.466,200,8,311415,2008
+9,14,222.43,14,Darren Manning,ABC Supply Co./AJ Foyt Racing,Dallara/Honda,143.462,200,0,301815,2008
+10,12,222.539,99,Townsend Bell,Dreyer & Reinbold William Rast Racing,Dallara/Honda,143.459,200,0,275315,2008
+11,25,220.767,5,Oriol Servia,Angie’s List Special,Dallara/Honda,143.31,200,0,302065,2008
+12,2,226.11,10,Dan Wheldon,Target Chip Ganassi Racing,Dallara/Honda,143.215,200,30,366815,2008
+13,23,221.136,8,Will Power,Aussie Vineyard-Team Australia,Dallara/Honda,143.206,200,0,300565,2008
+14,18,222.017,22,Davey Hamilton,Hewlett-Packard/KR Vision Racing,Dallara/Honda,143.202,200,0,270315,2008
+15,29,219.422,36,Enrique Bernoldi,Sangari Conquest Racing,Dallara/Honda,143.201,200,0,300565,2008
+16,21,221.55,24,John Andretti,Roth Racing,Dallara/Honda,Running,199,0,300315,2008
+17,32,219.015,91,Buddy Lazier,Hemelgarn Johnson,Dallara/Honda,Running,195,0,327015,2008
+18,28,219.716,19,Mario Moraes,Sonny's Bar-B-Q,Dallara/Honda,Running,194,3,303415,2008
+19,27,220.305,23,Milka Duno,CITGO / Dreyer & Reinbold Racing,Dallara/Honda,Running,185,0,300315,2008
+20,15,222.33,18,Bruno Junqueira,Z-Line Designs,Dallara/Honda,Running,184,2,301215,2008
+21,31,219.184,2,A.J. Foyt IV,Lilly Diabetes/Vision Racing,Dallara/Honda,Running,180,0,311815,2008
+22,5,225.197,7,Danica Patrick,Motorola,Dallara/Honda,Contact,171,0,301915,2008
+23,3,226.08,6,Ryan Briscoe,Team Penske,Dallara/Honda,Contact,171,0,312315,2008
+24,11,223.496,12,Tomas Scheckter,Symantec Luczo Dragon Racing,Dallara/Honda,Mechanical,156,0,270315,2008
+25,19,221.788,16,Alex Lloyd,Rahal Letterman with Chip Ganassi,Dallara/Honda,Contact,151,0,272065,2008
+26,26,220.356,33,E.J. Viso,PDVSA HVM Racing,Dallara/Honda,Mechanical,139,0,301565,2008
+27,16,222.267,2,Justin Wilson,McDonald's Racing Team,Dallara/Honda,Contact,132,0,302065,2008
+28,24,221.103,41,Jeff Simmons,ABC Supply/Foyt Racing,Dallara/Honda,Contact,112,0,270000,2008
+29,6,224.794,11,Tony Kanaan,Team 7-Eleven,Dallara/Honda,Contact,105,12,331215,2008
+30,22,221.246,67,Sarah Fisher,Sarah Fisher Racing,Dallara/Honda,Contact,103,0,277215,2008
+31,30,219.345,34,Jaime Camara,Sangari,Dallara/Honda,Contact,79,0,300565,2008
+32,33,218.965,25,Marty Roth,Roth Racing,Dallara/Honda,Contact,59,0,300315,2008
+33,13,222.531,6,Graham Rahal,Hole in the Wall Camps,Dallara/Honda,Contact,36,0,312065,2008
+1,1,224.864,3,Helio Castroneves,Team Penske,Dallara/Honda,150.318,200,66,3048005,2009
+2,18,222.777,4,Dan Wheldon,National Guard Panther Racing,Dallara/Honda,150.293,200,0,1258805,2009
+3,10,222.882,7,Danica Patrick,Boost Mobile/Motorola,Dallara/Honda,150.288,200,0,763305,2009
+4,24,221.195,8,Townsend Bell,Herbalife-KV Racing Technology,Dallara/Honda,150.284,200,0,445305,2009
+5,9,223.028,12,Will Power,Team Verizon Wireless,Dallara/Honda,150.272,200,0,345305,2009
+6,5,223.867,9,Scott Dixon,Target Chip Ganassi Racing,Dallara/Honda,150.264,200,73,374155,2009
+7,3,224.01,10,Dario Franchitti,Target Chip Ganassi Racing,Dallara/Honda,150.256,200,50,386305,2009
+8,17,222.78,20,Ed Carpenter,Menards/Vision Racing,Dallara/Honda,150.249,200,0,302805,2009
+9,13,223.111,15,Paul Tracy,GEICO/KV Racing Technology,Dallara/Honda,150.236,200,0,271805,2009
+10,16,222.805,27,Hideki Mutoh,Formula Dream,Dallara/Honda,150.226,200,0,301805,2009
+11,33,221.115,36,Alex Tagliani,All Sport Conquest Racing,Dallara/Honda,150.186,200,0,295305,2009
+12,26,221.496,19,Tomas Scheckter,MONA-VIE,Dallara/Honda,150.18,200,0,280305,2009
+13,11,222.622,99,Alex Lloyd,HER CGR/SSM Racing,Dallara/Honda,150.177,200,0,270305,2009
+14,20,222.162,16,Scott Sharp,Tequila Patrón Panther Racing,Dallara/Honda,150.174,200,0,270305,2009
+15,2,224.083,6,Ryan Briscoe,Team Penske,Dallara/Honda,150.159,200,11,349755,2009
+16,19,222.586,41,A.J. Foyt IV,ABC Supply/Foyt-Greer Racing,Dallara/Honda,150.123,200,0,271805,2009
+17,21,222.082,67,Sarah Fisher,Dollar General/Sarah Fisher Racing,Dallara/Honda,150.117,200,0,270305,2009
+18,27,221.417,24,Mike Conway,Dreyer & Reinbold Racing,Dallara/Honda,150.113,200,0,300555,2009
+19,28,221.316,43,John Andretti,Window World,Dallara/Honda,150.091,200,0,276805,2009
+20,30,221.106,23,Milka Duno,CITGO/Dreyer & Reinbold Racing,Dallara/Honda,Running,199,0,301805,2009
+21,14,223.054,14,Vitor Meira,ABC Supply Co. AJ Foyt Racing,Dallara/Honda,Contact,173,0,300305,2009
+22,12,223.429,2,Raphael Matos,US Air Force Luczo Dragon,Dallara/Honda,Contact,173,0,308305,2009
+23,15,222.903,18,Justin Wilson,Z-Line Designs,Dallara/Honda,Contact,160,0,300305,2009
+24,29,221.164,13,E.J. Viso,PDVSA HVM Racing,Dallara/Honda,Mechanical,139,0,300305,2009
+25,31,220.754,0,Nelson Philippe,i drive green HVM Racing,Dallara/Honda,Contact,130,0,270555,2009
+26,25,220.984,17,Oriol Servia,The Rahal Letterman DAFCA Special,Dallara/Honda,Mechanical,98,0,271805,2009
+27,6,223.612,11,Tony Kanaan,Team 7-Eleven,Dallara/Honda,Contact,97,0,303305,2009
+28,23,221.692,6,Robert Doornbos,Newman/Haas/Lanigan Racing,Dallara/Honda,Contact,85,0,305555,2009
+29,22,221.956,44,Davey Hamilton,Hewlett Packard,Dallara/Honda,Contact,79,0,271805,2009
+30,8,223.114,26,Marco Andretti,Team Venom Energy,Dallara/Honda,Handling,56,0,315305,2009
+31,4,223.954,2,Graham Rahal,McDonald's Racing Team,Dallara/Honda,Contact,55,0,305805,2009
+32,32,220.597,21,Ryan Hunter-Reay,IZOD/WilliamRast/Vision Racing,Dallara/Honda,Contact,19,0,353305,2009
+33,7,223.331,5,Mario Moraes,Azul Tequila-Votorantim-KV Racing,Dallara/Honda,Contact,0,0,301805,2009
+1,3,226.99,10,Dario Franchitti,Target Chip Ganassi Racing,Dallara/Honda,161.623,200,155,2752055,2010
+2,18,224.464,4,Dan Wheldon,National Guard Panther Racing,Dallara/Honda,161.621,200,0,1010805,2010
+3,16,224.575,26,Marco Andretti,Team Venom Energy,Dallara/Honda,161.319,200,1,631505,2010
+4,26,224.783,19,Alex Lloyd,Boy Scouts of America,Dallara/Honda,161.319,200,0,425305,2010
+5,6,226.233,9,Scott Dixon,Target Chip Ganassi Racing,Dallara/Honda,161.312,200,0,377805,2010
+6,23,224.217,7,Danica Patrick,Team GoDaddy.com,Dallara/Honda,161.308,200,0,307305,2010
+7,11,225.05,22,Justin Wilson,Team Z-Line Designs/DRR,Dallara/Honda,161.247,200,11,312255,2010
+8,2,227.578,12,Will Power,Verizon Team Penske,Dallara/Honda,161.185,200,5,385805,2010
+9,1,227.97,3,Helio Castroneves,Team Penske,Dallara/Honda,161.146,200,3,545655,2010
+10,5,226.39,77,Alex Tagliani,Bowers & Wilkins/Honda Edmonton Indy,Dallara/Honda,161.128,200,0,302805,2010
+11,33,224.072,11,Tony Kanaan,Team 7-Eleven,Dallara/Honda,160.763,200,0,328555,2010
+12,7,225.519,30,Graham Rahal,The Quick Trim/RLR Special,Dallara/Honda,160.758,200,0,251805,2010
+13,27,224.641,34,Mario Romancini,Conquest Racing,Dallara/Honda,160.733,200,0,305555,2010
+14,22,224.228,78,Simona de Silvestro,Team Stargate Worlds/HVM,Dallara/Honda,160.733,200,0,327055,2010
+15,20,224.261,23,Tomas Scheckter,MonaVie/DRR,Dallara/Honda,Running,199,5,262555,2010
+16,10,225.097,99,Townsend Bell,Herbalife Ganassi/Schmidt Team,Dallara/Honda,Running,199,0,251805,2010
+17,8,224.507,20,Ed Carpenter,Panther/Vision/Fuzzy's Vodka,Dallara/Honda,Running,199,0,250305,2010
+18,17,224.547,37,Ryan Hunter-Reay,Team IZOD,Dallara/Honda,Contact,198,0,302305,2010
+19,15,224.583,24,Mike Conway,Dad's Root Beer/DRR,Dallara/Honda,Contact,198,15,307055,2010
+20,31,224.178,5,Takuma Sato,Lotus-KV Racing Technology,Dallara/Honda,Running,198,0,302055,2010
+21,21,224.243,25,Ana Beatriz,Ipiranga/DRR,Dallara/Honda,Contact,196,0,250305,2010
+22,24,224.189,36,Bertrand Baguette,Conquest Racing RACB,Dallara/Honda,Running,183,0,300555,2010
+23,32,223.634,29,Sebastian Saavedra,William Rast/Bryan Herta Autosport,Dallara/Honda,Contact,159,0,255555,2010
+24,4,226.554,6,Ryan Briscoe,Team Penske,Dallara/Honda,Contact,147,5,307305,2010
+25,19,224.38,8,E.J. Viso,PDVSA-Jet Aviation-KV Racing Technology,Dallara/Honda,Contact,139,0,301805,2010
+26,29,224.434,67,Sarah Fisher,Dollar General/Sarah Fisher Racing,Dallara/Honda,Contact,125,0,250305,2010
+27,30,224.388,14,Vitor Meira,ABC Supply Co. A.J. Foyt Racing,Dallara/Honda,Contact,105,0,300305,2010
+28,9,223.487,6,Hideki Mutoh,Formula Dream/Panasonic,Dallara/Honda,Handling,76,0,315305,2010
+29,12,225.028,2,Raphael Matos,HP de Ferran Dragon Racing,Dallara/Honda,Contact,72,0,300305,2010
+30,28,224.518,43,John Andretti,Team Window World,Dallara/Honda,Contact,62,0,251805,2010
+31,13,224.888,32,Mario Moraes,GEICO-Curb Records/KV Racing Technology,Dallara/Honda,Contact,17,0,301805,2010
+32,25,225.662,33,Bruno Junqueira,Bowers & Wilkins/TorcUP,Dallara/Honda,Contact,7,0,261805,2010
+33,14,224.852,21,Davey Hamilton,HP de Ferran Dragon Racing,Dallara/Honda,Contact,0,0,255305,2010
+1,6,226.49,98,Dan Wheldon,William Rast - Curb/Big Machine,Dallara/Honda,Running,200,1,2567255,2011
+2,12,225.579,4,JR Hildebrand,National Guard Panther Racing,Dallara/Honda,Running,200,7,1064895,2011
+3,29,224.38,38,Graham Rahal,Service Central,Dallara/Honda,Running,200,6,666945,2011
+4,22,224.417,82,Tony Kanaan,GEICO - KV Racing Technology - Lotus,Dallara/Honda,Running,200,0,438745,2011
+5,2,227.34,9,Scott Dixon,Target Chip Ganassi Racing,Dallara/Honda,Running,200,73,519345,2011
+6,3,227.168,2,Oriol Servia,CDW/Telemundo,Dallara/Honda,Running,200,18,364845,2011
+7,14,225.285,30,Bertrand Baguette,The RACB/Aspria RLL Special,Dallara/Honda,Running,200,11,256255,2011
+8,21,224.433,7,Tomas Scheckter,Team REDLINE Xtreme - Circle K,Dallara/Honda,Running,200,0,253805,2011
+9,27,224.628,26,Marco Andretti,Team Venom,Dallara/Honda,Running,200,0,311245,2011
+10,25,224.861,7,Danica Patrick,Team GoDaddy,Dallara/Honda,Running,200,10,321745,2011
+11,8,225.121,67,Ed Carpenter,Dollar General/Sarah Fisher Racing,Dallara/Honda,Running,200,3,251655,2011
+12,9,226.379,10,Dario Franchitti,Target Chip Ganassi Racing,Dallara/Honda,Running,200,51,369695,2011
+13,28,224.499,83,Charlie Kimball,Levemir and Novolog FlexPen,Dallara/Honda,Running,199,0,251555,2011
+14,5,226.773,12,Will Power,Verizon Team Penske,Dallara/Honda,Running,199,0,318745,2011
+15,11,225.59,14,Vitor Meira,ABC Supply Co./A.J. Foyt Racing,Dallara/Honda,Running,199,0,306745,2011
+16,19,224.511,22,Justin Wilson,Z-Line Designs/Dreyer & Reinbold Racing,Dallara/Honda,Running,199,0,309995,2011
+17,16,225.216,3,Helio Castroneves,Shell V-Power/Pennzoil Ultra Team Penske,Dallara/Honda,Running,199,0,320245,2011
+18,7,225.786,44,Buddy Rice,Fuzzy's Vodka/Panther Racing,Dallara/Honda,Running,198,0,252805,2011
+19,30,223.957,19,Alex Lloyd,Boy Scouts of America,Dallara/Honda,Running,198,0,254805,2011
+20,31,223.936,36,Pippa Mann,Conquest Racing,Dallara/Honda,Running,198,0,251555,2011
+21,32,223.879,24,Ana Beatriz,Team Ipiranga/Dreyer & Reinbold Racing,Dallara/Honda,Running,197,0,306745,2011
+22,17,224.981,43,John Andretti,Team Window World,Dallara/Honda,Running,197,0,251305,2011
+23,33,224.691,41,Ryan Hunter-Reay,ABC Supply/DHL/Sun Drop,Dallara/Honda,Running,197,0,252805,2011
+24,15,225.25,11,Davey Hamilton,HP/Dreyer & Reinbold Racing,Dallara/Honda,Running,193,0,251305,2011
+25,24,224.939,23,Paul Tracy,WIX Filters/Dreyer & Reinbold Racing,Dallara/Honda,Running,175,0,252805,2011
+26,4,226.887,99,Townsend Bell,Herbalife Schmidt Pelfrey Racing,Dallara/Honda,Contact,157,0,252805,2011
+27,26,224.639,6,Ryan Briscoe,IZOD Team Penske,Dallara/Honda,Contact,157,0,356745,2011
+28,1,227.472,77,Alex Tagliani,Bowers & Wilkins/Sam Schmidt Motorsports,Dallara/Honda,Contact,147,20,492245,2011
+29,13,225.572,6,James Hinchcliffe,Sprott Newman Haas Racing,Dallara/Honda,Contact,99,0,256305,2011
+30,20,224.483,88,Jay Howard,Service Central Schmidt RLL Racing,Dallara/Honda,Contact,60,0,251555,2011
+31,23,224.392,78,Simona de Silvestro,Nuclear Clean Air Energy,Dallara/Honda,Handling,44,0,311745,2011
+32,18,224.732,59,E.J. Viso,PDVSA - KV Racing Technology - Lotus,Dallara/Honda,Contact,27,0,306745,2011
+33,10,225.736,5,Takuma Sato,Monavie-KV Racing Technology - Lotus,Dallara/Honda,Contact,20,0,310245,2011
+1,16,223.582,50,Dario Franchitti,Target Chip Ganassi Racing,Dallara/Honda,Running,200,23,2474280,2012
+2,15,223.684,9,Scott Dixon,Target Chip Ganassi Racing,Dallara/Honda,Running,200,53,1102280,2012
+3,8,224.751,11,Tony Kanaan,GEICO/Mouser Electronics KV Racing Technology,Dallara/Chevrolet,Running,200,7,636580,2012
+4,27,222.393,22,Oriol Servia,Panther/Dreyer & Reinbold Racing,Dallara/Chevrolet,Running,200,0,443430,2012
+5,1,226.484,2,Ryan Briscoe,IZOD Team Penske,Dallara/Chevrolet,Running,200,15,489930,2012
+6,2,226.481,27,James Hinchcliffe,Team GoDaddy.com,Dallara/Chevrolet,Running,200,5,357680,2012
+7,21,222.929,18,Justin Wilson,Sonny's BBQ,Dallara/Honda,Running,200,0,303430,2012
+8,14,223.868,83,Charlie Kimball,NovoLog FlexPen,Dallara/Honda,Running,200,3,277655,2012
+9,20,223.134,99,Townsend Bell,BraunAbility-Schmidt-Pelfrey Motorsports,Dallara/Honda,Running,200,0,251305,2012
+10,6,225.172,3,Helio Castroneves,Shell V-Power/Pennzoil Ultra Team Penske,Dallara/Chevrolet,Running,200,0,308930,2012
+11,10,224.264,8,Rubens Barrichello,BMC/Embrase KV Racing Technology,Dallara/Chevrolet,Running,200,2,331080,2012
+12,11,224.0,98,Alex Tagliani,Team Barracuda-BHA,Dallara/Honda,Running,200,2,252205,2012
+13,12,223.959,38,Graham Rahal,Service Central,Dallara/Honda,Running,200,0,306680,2012
+14,18,223.422,4,JR Hildebrand,National Guard Panther Racing,Dallara/Chevrolet,Running,200,0,306680,2012
+15,17,223.482,19,James Jakes,Boy Scouts of America,Dallara/Honda,Running,200,0,252555,2012
+16,23,222.891,77,Simon Pagenaud,Schmidt Hamilton HP Motorsports,Dallara/Honda,Running,200,0,303680,2012
+17,19,223.392,15,Takuma Sato,Rahal Letterman Lanigan Racing,Dallara/Honda,Contact,199,31,301755,2012
+18,9,224.422,5,E.J. Viso,CITGO/PDVSA KV Racing Technology,Dallara/Chevrolet,Running,199,0,303430,2012
+19,22,222.893,30,Michel Jourdain Jr.,Office Depot/RLL Racing,Dallara/Honda,Running,199,0,253305,2012
+20,25,223.76,7,Sebastien Bourdais,Dragon Racing,Dallara/Chevrolet,Running,199,0,252805,2012
+21,28,222.324,20,Ed Carpenter,Fuzzy's Vodka Ed Carpenter Racing,Dallara/Chevrolet,Running,199,0,304930,2012
+22,30,221.624,6,Katherine Legge,TrueCar Dragon Racing,Dallara/Chevrolet,Running,199,0,303680,2012
+23,13,223.92,25,Ana Beatriz,Team Ipiranga,Dallara/Chevrolet,Running,190,0,252805,2012
+24,4,225.456,26,Marco Andretti,Team RC Cola,Dallara/Chevrolet,Contact,187,59,368480,2012
+25,7,224.037,67,Josef Newgarden,Sarah Fisher Hartman/Dollar General,Dallara/Honda,Mechanical,161,0,257805,2012
+26,24,222.811,17,Sebastian Saavedra,Team AFS,Dallara/Chevrolet,Electrical,143,0,256305,2012
+27,3,226.24,28,Ryan Hunter-Reay,Team DHL/Sun Drop Citrus Soda,Dallara/Chevrolet,Suspension,123,0,346680,2012
+28,5,225.422,12,Will Power,Verizon Team Penske,Dallara/Chevrolet,Contact,79,0,310430,2012
+29,29,222.319,14,Mike Conway,ABC Supply Co./A.J. Foyt Racing,Dallara/Honda,Contact,78,0,305430,2012
+30,31,214.455,39,Bryan Clauson,Sarah Fisher Hartman/Curb Agajanian,Dallara/Honda,Mechanical,46,0,258055,2012
+31,26,223.258,41,Wade Cunningham,Ecat/ABC Supply,Dallara/Honda,Electrical,42,0,251555,2012
+32,32,214.393,78,Simona de Silvestro,Nuclear Clean Air Energy Lotus HVM Racing,Dallara/Lotus,Handling,10,0,303430,2012
+33,33,210.094,64,Jean Alesi,Lotus - FP Journe - Fan Force United,Dallara/Lotus,Handling,9,0,251555,2012
+1,12,226.949,11,Tony Kanaan,Hydroxycut KV Racing Technology-SH Racing,Dallara/Chevrolet,Running,200,34,2353355,2013
+2,2,228.342,26,Carlos Munoz,Unistraw,Dallara/Chevrolet,Running,200,12,964205,2013
+3,7,227.904,1,Ryan Hunter-Reay,DHL,Dallara/Chevrolet,Running,200,26,583005,2013
+4,3,228.261,25,Marco Andretti,RC Cola,Dallara/Chevrolet,Running,200,31,469755,2013
+5,14,226.37,19,Justin Wilson,Dale Coyne Racing,Dallara/Honda,Running,200,0,337805,2013
+6,8,227.762,3,Helio Castroneves,Shell V-Power/Pennzoil Ultra Team Penske,Dallara/Chevrolet,Running,200,1,313755,2013
+7,5,228.099,2,AJ Allmendinger,IZOD Team Penske,Dallara/Chevrolet,Running,200,23,261155,2013
+8,21,225.674,77,Simon Pagenaud,Schmidt Hamilton HP Motorsports,Dallara/Honda,Running,200,0,262805,2013
+9,19,225.88,83,Charlie Kimball,NovoLog FlexPen,Dallara/Honda,Running,200,0,269305,2013
+10,1,228.762,20,Ed Carpenter,Fuzzy's Vodka Ed Carpenter Racing,Dallara/Chevrolet,Running,200,37,405955,2013
+11,13,226.814,22,Oriol Servia,Panther DRR,Dallara/Chevrolet,Running,200,0,271305,2013
+12,23,225.265,8,Ryan Briscoe,NTT DATA,Dallara/Honda,Running,200,0,230555,2013
+13,18,225.892,14,Takuma Sato,ABC Supply Co./A.J. Foyt Racing,Dallara/Honda,Running,200,0,264805,2013
+14,16,226.158,9,Scott Dixon,Target Chip Ganassi Racing,Dallara/Honda,Running,200,1,268005,2013
+15,29,224.184,18,Ana Beatriz,Ipiranga,Dallara/Honda,Running,200,0,262805,2013
+16,28,224.873,55,Tristan Vautier,Lucas Oil/Schmidt Peterson Motorsports,Dallara/Honda,Running,200,0,227305,2013
+17,24,225.226,78,Simona de Silvestro,Nuclear Entergy Areva KVRT,Dallara/Chevrolet,Running,200,0,262805,2013
+18,4,228.15,5,E.J. Viso,Team Venezuela PDVSA Citgo,Dallara/Chevrolet,Running,200,5,276555,2013
+19,6,228.087,12,Will Power,Verizon Team Penske,Dallara/Chevrolet,Running,200,16,273255,2013
+20,20,225.809,16,James Jakes,Acorn Stairlifts,Dallara/Honda,Running,199,5,227555,2013
+21,9,227.07,27,James Hinchcliffe,GoDaddy,Dallara/Chevrolet,Running,199,7,267955,2013
+22,31,223.582,41,Conor Daly,ABC Supply Co./A.J. Foyt Racing,Dallara/Honda,Running,198,0,227305,2013
+23,17,226.069,10,Dario Franchitti,Target Chip Ganassi Racing,Dallara/Honda,Contact,197,0,277805,2013
+24,11,227.386,98,Alex Tagliani,Barracuda Racing,Dallara/Honda,Running,196,1,263255,2013
+25,26,225.007,15,Graham Rahal,Midas/Big O Tires,Dallara/Honda,Contact,193,0,262805,2013
+26,33,223.176,81,Katherine Legge,Angie's List Schmidt Peterson Pelfrey,Dallara/Honda,Running,193,0,225305,2013
+27,22,225.643,60,Townsend Bell,"Sunoco ""Turbo"" Panther Racing",Dallara/Honda,Running,192,1,237255,2013
+28,25,225.731,21,Josef Newgarden,Sarah Fisher Hartman/Century 21,Dallara/Honda,Running,191,0,264305,2013
+29,15,226.196,7,Sebastien Bourdais,Dragon Racing,Dallara/Chevrolet,Contact,178,0,262805,2013
+30,30,224.005,63,Pippa Mann,Cyclops Gear.com,Dallara/Honda,Contact,46,0,225305,2013
+31,32,223.442,91,Buddy Lazier,Spirit of Oklahoma,Dallara/Chevrolet,Mechanical,44,0,230305,2013
+32,27,224.929,6,Sebastian Saavedra,Dragon Racing,Dallara/Chevrolet,Contact,34,0,225305,2013
+33,10,227.441,4,JR Hildebrand,National Guard Panther Racing,Dallara/Chevrolet,Contact,3,0,264305,2013
+1,19,229.719,28,Ryan Hunter-Reay,DHL Honda,Dallara/Honda,Running,200,56,2491194,2014
+2,4,230.649,3,Helio Castroneves,Pennzoil Ultra Platinum Team Penske Chevrolet,Dallara/Chevrolet,Running,200,38,785194,2014
+3,6,230.544,25,Marco Andretti,Snapple Honda,Dallara/Honda,Running,200,20,585194,2014
+4,6,230.146,34,Carlos Munoz,Cinsay AndrettiTV.com HVM Honda,Dallara/Honda,Running,200,0,449194,2014
+5,10,230.007,2,Juan Pablo Montoya,Verizon Team Penske Chevrolet,Dallara/Chevrolet,Running,200,16,441944,2014
+6,12,230.782,26,Kurt Busch,Suretone Honda,Dallara/Honda,Running,200,0,423889,2014
+7,17,229.847,11,Sebastien Bourdais,Hydroxycut/Mistic KVSH Racing Chevrolet,Dallara/Chevrolet,Running,200,0,384194,2014
+8,3,230.697,12,Will Power,Verizon Team Penske Chevrolet,Dallara/Chevrolet,Running,200,22,442194,2014
+9,31,228.436,22,Sage Karam,Comfort Revolution/Brantley Gilbert Chevrolet,Dallara/Chevrolet,Running,200,0,270305,2014
+10,9,228.726,21,JR Hildebrand,Preferred Freezer/Ed Carpenter Racing Chevrolet,Dallara/Chevrolet,Running,200,0,366194,2014
+11,18,229.752,16,Oriol Servia,Rahal Letterman Lanigan Racing Honda,Dallara/Honda,Running,200,0,247305,2014
+12,5,230.614,77,Simon Pagenaud,Schmidt Peterson Hamilton Motorsports Honda,Dallara/Honda,Running,200,0,374444,2014
+13,24,229.148,68,Alex Tagliani,SFHR/RW Motorsports Honda,Dallara/Honda,Running,200,3,368694,2014
+14,27,228.949,5,Jacques Villeneuve,Schmidt Peterson Motorsports Honda,Dallara/Honda,Running,200,0,354194,2014
+15,32,228.088,17,Sebastian Saavedra,KV AFS Racing Chevrolet,Dallara/Chevrolet,Running,200,0,349194,2014
+16,28,228.865,33,James Davison,KVRT/Always Evolving Racing Chevrolet,Dallara/Chevrolet,Running,200,0,341194,2014
+17,21,229.251,18,Carlos Huertas,Dale Coyne Racing Honda,Dallara/Honda,Running,200,0,339694,2014
+18,30,228.713,8,Ryan Briscoe,NTT Data Chip Ganassi Racing Chevrolet,Dallara/Chevrolet,Running,200,0,344444,2014
+19,23,229.201,14,Takuma Sato,ABC Supply A.J. Foyt Racing Honda,Dallara/Honda,Running,200,0,342444,2014
+20,13,230.506,98,Jack Hawksworth,Integrity Energee Drink Honda,Dallara/Honda,Running,200,0,346194,2014
+21,15,230.049,7,Mikhail Aleshin,SMP Racing Honda,Dallara/Honda,Running,198,1,340194,2014
+22,14,230.256,19,Justin Wilson,Dale Coyne Racing Honda,Dallara/Honda,Running,198,0,339194,2014
+23,29,228.814,41,Martin Plowman,ABC Supply/A.J. Foyt Racing Honda,Dallara/Honda,Running,196,0,225805,2014
+24,22,229.223,63,Pippa Mann,Dale Coyne Racing Honda,Dallara/Honda,Running,193,0,226805,2014
+25,25,229.009,6,Townsend Bell,Robert Graham KV Racing Technology Chevrolet,Dallara/Chevrolet,Contact,190,0,226805,2014
+26,16,229.992,10,Tony Kanaan,Target Chip Ganassi Racing Chevrolet,Dallara/Chevrolet,Running,177,1,343194,2014
+27,1,231.067,20,Ed Carpenter,Fuzzy's Vodka/Ed Carpenter Racing Chevrolet,Dallara/Chevrolet,Contact,175,26,463694,2014
+28,2,230.839,27,James Hinchcliffe,United Fiber & Data Honda,Dallara/Honda,Contact,175,14,376194,2014
+29,11,230.928,9,Scott Dixon,Target Chip Ganassi Racing Chevrolet,Dallara/Chevrolet,Contact,167,3,390694,2014
+30,8,229.893,67,Josef Newgarden,Hartman Oil/Sarah Fisher Hartman Racing Honda,Dallara/Honda,Contact,156,0,344194,2014
+31,26,228.953,83,Charlie Kimball,Novo Nordisk Ganassi Racing Chevrolet,Dallara/Chevrolet,Contact,149,0,341194,2014
+32,33,227.92,91,Buddy Lazier,Wynn Institute for Vision Research Chevrolet,Dallara/Chevrolet,Mechanical,87,0,225305,2014
+33,20,229.628,15,Graham Rahal,National Guard Honda,Dallara/Honda,Electrical,44,0,341194,2014
+1,15,224.657,2,Juan Pablo Montoya,Verizon Team Penske Chevrolet,Dallara/Chevrolet,161.341,200,9,2449055,2015
+2,2,226.35,1,Will Power,Verizon Team Penske Chevrolet,Dallara/Chevrolet,161.339,200,23,792555,2015
+3,14,224.743,83,Charlie Kimball,Novo Nordisk Chip Ganassi Racing Chevrolet,Dallara/Chevrolet,161.329,200,10,564055,2015
+4,1,226.76,9,Scott Dixon,Target Chip Ganassi Racing Chevrolet,Dallara/Chevrolet,161.326,200,84,615805,2015
+5,17,224.29,15,Graham Rahal,Steak 'n Shake Honda,Dallara/Honda,161.307,200,0,439555,2015
+6,8,225.189,27,Marco Andretti,Snapple Honda,Dallara/Honda,161.304,200,0,412055,2015
+7,5,225.502,3,Helio Castroneves,Shell V-Power Nitro+ Team Penske Chevrolet,Dallara/Chevrolet,161.3,200,2,482555,2015
+8,10,225.099,6,JR Hildebrand,Preferred Freezer CFH Racing Chevrolet,Dallara/Chevrolet,161.289,200,0,246805,2015
+9,9,225.187,21,Josef Newgarden,Century 21 CFH Racing Chevrolet,Dallara/Chevrolet,161.282,200,0,382055,2015
+10,3,226.145,22,Simon Pagenaud,Avaya Team Penske Chevrolet,Dallara/Chevrolet,161.28,200,35,307805,2015
+11,7,225.193,11,Sebastien Bourdais,Hydroxycut-HAUS Vaporizer KVSH Chevrolet,Dallara/Chevrolet,161.264,200,0,378555,2015
+12,31,223.519,5,Ryan Briscoe,Arrow/Lucas Oil Schmidt Peterson Honda,Dallara/Honda,161.259,200,0,368805,2015
+13,24,223.226,14,Takuma Sato,ABC Supply A.J. Foyt Racing Honda,Dallara/Honda,161.251,200,0,364055,2015
+14,23,223.447,24,Townsend Bell,The Robert Graham Special Chevrolet,Dallara/Chevrolet,161.218,200,0,218555,2015
+15,16,224.573,28,Ryan Hunter-Reay,DHL Honda,Dallara/Honda,161.201,200,0,355555,2015
+16,26,222.916,98,Gabby Chaves,Bowers & Wilkins/Curb Honda,Dallara/Honda,161.195,200,0,399055,2015
+17,20,223.722,48,Alex Tagliani,Alfe Heat Treating Special Honda,Dallara/Honda,161.178,200,2,203305,2015
+18,19,223.79,7,James Jakes,Schmidt Peterson Motorsports Honda,Dallara/Honda,161.167,200,0,347555,2015
+19,18,223.838,29,Simona de Silvestro,TE Connectivity Honda,Dallara/Honda,161.157,200,0,200305,2015
+20,11,225.042,26,Carlos Munoz,AndrettiTV Cinsay Honda,Dallara/Honda,160.766,200,3,345555,2015
+21,6,225.279,25,Justin Wilson,Andretti Autosport Honda,Dallara/Honda,160.464,199,2,211305,2015
+22,25,223.104,63,Pippa Mann,Dale Coyne Racing Honda,Dallara/Honda,158.544,197,0,206805,2015
+23,27,222.898,17,Sebastian Saavedra,AFS Chip Ganassi Racing Chevrolet,Dallara/Chevrolet,Contact,175,0,200305,2015
+24,28,223.738,41,Jack Hawksworth,ABC Supply A.J. Foyt Racing Honda,Dallara/Honda,Contact,175,0,205055,2015
+25,29,222.001,4,Stefano Coletti,KV Racing Technology Chevrolet,Dallara/Chevrolet,Contact,175,0,344555,2015
+26,4,225.503,10,Tony Kanaan,NTT Data Chip Ganassi Racing Chevrolet,Dallara/Chevrolet,Contact,151,30,375555,2015
+27,33,223.747,19,James Davison,Dale Coyne Racing Honda,Dallara/Honda,Mechanical,116,0,344055,2015
+28,32,224.233,18,Tristan Vautier,Dale Coyne Racing Honda,Dallara/Honda,Mechanical,116,0,344055,2015
+29,13,224.777,32,Oriol Servia,Rahal Letterman Lanigan Racing Honda,Dallara/Honda,Contact,112,0,201805,2015
+30,12,224.883,20,Ed Carpenter,Fuzzy's Vodka CFH Racing Chevrolet,Dallara/Chevrolet,Contact,112,0,344055,2015
+31,30,221.358,88,Bryan Clauson,Jonathan Byrd's/Cancer Centers of America Chevrolet,Dallara/Chevrolet,Contact,61,0,200305,2015
+32,21,223.595,8,Sage Karam,Comfort Revolution/Big Machine Records Chevrolet,Dallara/Chevrolet,Contact,0,0,344055,2015
+33,22,223.482,43,Conor Daly,Fueled by Bacon Special Honda,Dallara/Honda,Mechanical,0,0,201805,2015
+1,11,228.473,98,Alexander Rossi,NAPA Auto Parts / Curb Honda,Dallara/Honda,166.634,200,14,2548743,2016
+2,5,230.287,26,Carlos Munoz,United Fiber & Data Honda,Dallara/Honda,166.565,200,10,788743,2016
+3,2,230.7,21,Josef Newgarden,Preferred Freezer Chevrolet,Dallara/Chevrolet,166.588,200,14,574243,2016
+4,18,227.43,10,Tony Kanaan,NTT Data Chip Ganassi Racing Chevrolet,Dallara/Chevrolet,166.473,200,19,445743,2016
+5,16,227.822,42,Charlie Kimball,Tresiba Chevrolet,Dallara/Chevrolet,166.742,200,0,423243,2016
+6,15,227.876,6,JR Hildebrand,Preferred Freezer Fuzzy's Vodka Chevrolet,Dallara/Chevrolet,166.46,200,4,257305,2016
+7,1,230.76,5,James Hinchcliffe,Arrow Schmidt Peterson Motorsports Honda,Dallara/Honda,166.438,200,27,502993,2016
+8,13,227.991,9,Scott Dixon,Target Chip Ganassi Racing Chevrolet,Dallara/Chevrolet,166.401,200,0,384493,2016
+9,19,227.428,11,Sebastien Bourdais,Team Hydroxycut - KVSH Chevrolet,Dallara/Chevrolet,166.31,200,0,371743,2016
+10,6,229.669,12,Will Power,Verizon Team Penske Chevrolet,Dallara/Chevrolet,166.303,200,8,390243,2016
+11,9,229.115,3,Helio Castroneves,Shell V-Power Nitro+ Team Penske Chevrolet,Dallara/Chevrolet,166.294,200,24,451243,2016
+12,10,229.06,77,Oriol Servia,Lucas Oil Special Honda,Dallara/Honda,166.268,200,0,220305,2016
+13,14,227.969,27,Marco Andretti,Snapple Honda,Dallara/Honda,166.25,200,0,354243,2016
+14,26,225.847,15,Graham Rahal,Steak 'n Shake Honda,Dallara/Honda,166.2,200,0,354493,2016
+15,22,226.686,8,Max Chilton,Gallagher Chip Ganassi Racing Chevrolet,Dallara/Chevrolet,166.1932,200,0,346743,2016
+16,31,224.596,41,Jack Hawksworth,ABC Supply AJ Foyt Racing Honda,Dallara/Honda,166.14,200,0,336243,2016
+17,33,0.0,35,Alex Tagliani,Alfe Heat Treating Special Honda,Dallara/Honda,166.139,200,11,215805,2016
+18,25,226.006,63,Pippa Mann,Susan G. Komen Honda,Dallara/Honda,165.698,199,0,205305,2016
+19,8,229.139,22,Simon Pagenaud,Menards Team Penske Chevrolet,Dallara/Chevrolet,165.689,199,0,341243,2016
+20,21,227.192,98,Gabby Chaves,Boy Scouts of America Honda,Dallara/Honda,165.592,199,0,336243,2016
+21,4,230.481,29,Townsend Bell,California Pizza Kitchen/Robert Graham Honda,Dallara/Honda,165.592,199,12,221305,2016
+22,27,225.727,61,Matthew Brabham,PIRTEK Team Murray,Dallara/Chevrolet,165.579,199,0,202805,2016
+23,28,225.266,88,Bryan Clauson,Cancer Treatment Centers of America,Dallara/Honda,164.861,198,3,201805,2016
+24,3,230.648,28,Ryan Hunter-Reay,DHL Honda,Dallara/Honda,164.188,198,52,419243,2016
+25,29,224.847,16,Spencer Pigot,RLL / Mi-Jack / Manitowoc,Dallara/Honda,161.997,195,0,200805,2016
+26,12,228.029,14,Takuma Sato,ABC Supply AJ Foyt Racing Honda,Dallara/Honda,Contact,163,0,338243,2016
+27,7,229.562,7,Mikhail Aleshin,SMP Racing Schmidt Peterson Honda,Dallara/Honda,Contact,126,0,359243,2016
+28,30,224.602,25,Stefan Wilson,Driven2SaveLives - KVRT Chevrolet,Dallara/Chevrolet,Electrical,119,0,200805,2016
+29,24,226.312,18,Conor Daly,Shirts for America Honda,Dallara/Honda,Contact,115,0,336243,2016
+30,32,222.154,4,Buddy Lazier,Lazier / Burns Racing Chevrolet,Dallara/Chevrolet,Mechanical,100,0,200305,2016
+31,20,227.226,20,Ed Carpenter,Ed Carpenter Racing Chevrolet,Dallara/Chevrolet,Mechanical,98,0,200305,2016
+32,23,226.436,24,Sage Karam,Gas Monkey Energy Chevrolet,Dallara/Chevrolet,Contact,93,2,203305,2016
+33,17,227.684,2,Juan Pablo Montoya,Verizon Team Penske Chevrolet,Dallara/Chevrolet,Contact,63,0,339493,2016
+1,4,231.365,26,Takuma Sato,Andretti Autosport Honda,Dallara/Honda,155.395,200,17,2458129,2017
+2,19,229.515,3,Helio Castroneves,Shell Fuel Rewards Team Penske Chevrolet,Dallara/Chevrolet,155.393,200,9,770629,2017
+3,11,230.578,19,Ed Jones,Boy Scouts of America Honda,Dallara/Honda,155.388,200,0,535629,2017
+4,15,230.068,8,Max Chilton,Gallagher Honda,Dallara/Honda,155.38,200,50,484129,2017
+5,7,230.828,10,Tony Kanaan,NTT Data Honda,Dallara/Honda,155.373,200,22,438129,2017
+6,18,229.565,2,Juan Pablo Montoya,Fitgerald Glider Kits Team Penske Chevrolet,Dallara/Chevrolet,155.372,200,1,255805,2017
+7,3,231.487,98,Alexander Rossi,NAPA Auto Parts / Curb Honda,Dallara/Honda,155.363,200,23,420629,2017
+8,8,230.474,27,Marco Andretti,United Fiber & Data Honda,Dallara/Honda,155.361,200,0,384629,2017
+9,25,226.921,88,Gabby Chaves,Harding Racing Chevrolet,Dallara/Chevrolet,155.344,200,0,235305,2017
+10,24,227.921,14,Carlos Munoz,ABC Supply AJ Foyt Racing Chevrolet,Dallara/Chevrolet,155.335,200,0,364129,2017
+11,2,231.664,20,Ed Carpenter,Fuzzy's Vodka Chevrolet,Dallara/Chevrolet,155.333,200,5,395129,2017
+12,14,230.253,15,Graham Rahal,Steak 'n Shake Honda,Dallara/Honda,155.328,200,2,361129,2017
+13,13,230.271,7,Mikhail Aleshin,SMP Racing Schmidt Peterson Motorsports Honda,Dallara/Honda,155.319,200,0,355629,2017
+14,23,228.093,1,Simon Pagenaud,Menards Team Penske Chevrolet,Dallara/Chevrolet,155.314,200,0,349129,2017
+15,31,221.142,17,Sebastian Saavedra,AFS Chevrolet,Dallara/Chevrolet,155.226,200,0,210305,2017
+16,6,230.889,21,JR Hildebrand,Preferred Freezer Service Chevrolet,Dallara/Chevrolet,154.951,200,2,345129,2017
+17,28,225.008,63,Pippa Mann,Susan G. Komen Honda,Dallara/Honda,154.444,199,0,200305,2017
+18,29,224.052,11,Spencer Pigot,Juncos Racing Chevrolet,Dallara/Chevrolet,150.302,194,0,200305,2017
+19,22,228.501,2,Josef Newgarden,hum by Verizon Team Penske Chevrolet,Dallara/Chevrolet,144.18,186,0,334129,2017
+20,33,0.0,18,James Davison,GEICO Honda,Dallara/Honda,Contact,183,2,355129,2017
+21,12,230.309,16,Oriol Servia,Manitowoc Honda,Dallara/Honda,Contact,183,0,200305,2017
+22,17,229.86,5,James Hinchcliffe,Arrow Schmidt Peterson Motorsports Honda,Dallara/Honda,Contact,183,0,349129,2017
+23,9,230.2,12,Will Power,Verizon Team Penske Chevrolet,Dallara/Chevrolet,Contact,183,2,388129,2017
+24,5,231.3,29,Fernando Alonso,McLaren-Honda-Andretti Honda,Dallara/Honda,Mechanical,179,27,305805,2017
+25,16,229.956,83,Charlie Kimball,Tresiba Honda,Dallara/Honda,Mechanical,166,5,339129,2017
+26,32,221.081,40,Zach Veach,Indy Women in Tech Championship Chevrolet,Dallara/Chevrolet,Mechanical,155,0,200805,2017
+27,10,231.442,28,Ryan Hunter-Reay,DHL Honda,Dallara/Honda,Mechanical,136,28,351629,2017
+28,21,229.38,24,Sage Karam,DRR - Mecum Auctions Chevrolet,Dallara/Chevrolet,Mechanical,125,0,202805,2017
+29,30,223.417,44,Buddy Lazier,Lazier Racing-StalkIt-Tivoli Lodge Chevrolet,Dallara/Chevrolet,Contact,118,0,200305,2017
+30,26,226.439,4,Conor Daly,ABC Supply AJ Foyt Racing Chevrolet,Dallara/Chevrolet,Contact,65,0,334129,2017
+31,27,225.742,50,Jack Harvey,Michael Shank Racing w/ Andretti Autosport Honda,Dallara/Honda,Contact,65,0,205805,2017
+32,1,232.164,9,Scott Dixon,Camping World Honda,Dallara/Honda,Contact,52,5,446629,2017
+33,20,229.414,77,Jay Howard,Lucas Oil / Team One Cure Honda,Dallara/Honda,Contact,45,0,200305,2017
+1,3,228.607,12,Will Power,Verizon Team Penske Chevrolet,Dallara/Chevrolet,166.935,200,59,2525454,2018
+2,1,229.618,20,Ed Carpenter,Fuzzy's Vodka Chevrolet,Dallara/Chevrolet,166.886,200,65,911504,2018
+3,9,227.262,9,Scott Dixon,PNC Bank Ganassi Racing Honda,Dallara/Honda,166.864,200,0,587129,2018
+4,32,224.935,27,Alexander Rossi,NAPA Auto Parts Honda,Dallara/Honda,166.854,200,1,454804,2018
+5,14,226.788,28,Ryan Hunter-Reay,DHL Honda,Dallara/Honda,166.931,200,1,419804,2018
+6,2,228.761,22,Simon Pagenaud,Menards Team Penske Chevrolet,Dallara/Chevrolet,166.823,200,1,419804,2018
+7,21,226.048,29,Carlos Munoz,Ruoff Home Mortgage Honda,Dallara/Honda,166.814,200,4,254005,2018
+8,4,228.405,1,Josef Newgarden,Verizon Team Penske Chevrolet,Dallara/Chevrolet,166.801,200,3,400654,2018
+9,18,226.296,6,Robert Wickens,Lucas Oil SPM Honda,Dallar/Honda,166.791,200,2,424979,2018
+10,30,225.327,15,Graham Rahal,United Rentals Honda,Dallara/Honda,166.76,200,12,401229,2018
+11,27,225.418,66,JR Hildebrand,Salesforce DRR Chevrolet,Dallara/Chevrolet,166.738,200,0,225305,2018
+12,12,227.288,98,Marco Andretti,U.S. Concrete / Curb Honda,Dallara/Honda,166.717,200,0,364129,2018
+13,11,227.571,4,Matheus Leist,ABC Supply AJ Foyt Racing Chevrolet,Dallara/Chevrolet,166.707,200,0,357129,2018
+14,22,226.007,88,Gabby Chaves,Harding Group Chevrolet,Dallara/Chevrolet,166.701,200,0,315305,2018
+15,23,225.863,25,Stefan Wilson,#DrivenToSaveLives Honda,Dallara/Honda,166.415,200,3,212330,2018
+16,31,225.254,60,Jack Harvey,AutoNation SiriusXM MSR with SPM Honda,Dallara/Honda,166.398,200,0,200305,2018
+17,26,225.699,64,Oriol Servia,Scuderia Corsa / Manitowoc Honda,Dallara/Honda,166.345,200,16,211105,2018
+18,15,226.657,23,Charlie Kimball,Fiasp Chevrolet,Dallara/Chevrolet,166.295,200,0,300305,2018
+19,13,226.999,19,Zachary Claman De Melo,Paysafe Honda,Dallara/Honda,165.999,199,7,339354,2018
+20,6,228.107,21,Spencer Pigot,Preferred Freezer Service Chevrolet,Dallara/Chevrolet,165.846,199,3,346154,2018
+21,33,224.429,17,Conor Daly,United States Air Force Honda,Dallara/Honda,165.842,199,0,200305,2018
+22,20,226.212,59,Max Chilton,Gallagher Chevrolet,Dallara/Chevrolet,165.227,198,0,300305,2018
+23,25,225.748,26,Zach Veach,Relay Group 1001 Honda,Dallara/Honda,165.018,198,0,334129,2018
+24,28,225.388,7,Jay Howard,One Cure SPM Honda,Dallara/Honda,160.734,193,0,200305,2018
+25,10,227.664,14,Tony Kanaan,ABC Supply AJ Foyt Racing Chevrolet,Dallara/Chevrolet,Contact,187,19,346954,2018
+26,24,225.823,24,Sage Karam,WIX Filters DRR Chevrolet,Dallara/Chevrolet,Contact,154,0,203305,2018
+27,8,227.859,3,Helio Castroneves,Pennzoil Team Penske Chevrolet,Dallara/Chevrolet,Contact,145,0,205305,2018
+28,5,228.142,18,Sebastien Bourdais,Team SealMaster Honda,Dallara/Honda,Contact,137,4,348829,2018
+29,17,226.398,32,Kyle Kaiser,NFP / Juncos Racing Chevrolet,Dallara/Chevrolet,Mechanical,110,0,205805,2018
+30,7,228.09,13,Danica Patrick,GoDaddy Chevrolet,Dallara/Chevrolet,Contact,67,0,208305,2018
+31,29,225.362,10,Ed Jones,NTT DATA Honda,Dallara/Honda,Contact,57,0,338129,2018
+32,16,226.557,30,Takuma Sato,Mi-Jack / Panasonic Honda,Dallara/Honda,Contact,46,0,300305,2018
+33,19,226.255,33,James Davison,Jonathan Byrd's 502 East Chevrolet,Dallara/Chevrolet,Contact,45,0,200305,2018
+1,1,229.992,22,Simon Pagenaud,Menards Team Penske,Dallara/Chevrolet,175.794,200,116,2669529,2019
+2,9,228.247,27,Alexander Rossi,NAPA Auto Parts,Dallara/Honda,175.79,200,22,759179,2019
+3,14,228.3,30,Takuma Sato,Mi-Jack / Panasonic,Dallara/Honda,175.788,200,3,540454,2019
+4,8,228.396,2,Josef Newgarden,Shell V-Power Nitro Plus Team Penske,Dallara/Chevrolet,175.778,200,21,462904,2019
+5,6,228.645,12,Will Power,Verizon 5G Team Penske,Dallara/Chevrolet,175.766,200,7,444554,2019
+6,2,229.889,20,Ed Carpenter,Preferred Freezer Services,Dallara/Chevrolet,175.76,200,7,450554,2019
+7,23,227.731,19,Santino Ferrucci,Cly-Del Manufacturing,Dallara/Honda,175.745,200,1,435404,2019
+8,22,227.877,28,Ryan Hunter-Reay,DHL,Dallara/Honda,175.725,200,0,379129,2019
+9,16,228.12,14,Tony Kanaan,ABC Supply AJ Foyt Racing,Dallara/Chevrolet,175.712,200,0,369129,2019
+10,11,228.617,25,Conor Daly,United States Air Force,Dallara/Honda,175.702,200,0,230805,2019
+11,32,227.543,5,James Hinchcliffe,Arrow Schmidt Peterson Motorsports,Dallara/Honda,175.7,200,0,365129,2019
+12,15,228.273,33,James Davison,Dale Coyne Racing with Byrd and Belardi,Dallara/Honda,175.687,200,0,220305,2019
+13,4,229.646,63,Ed Jones,Ed Carpenter Racing Scuderia Corsa,Dallara/Chevrolet,175.664,200,0,233305,2019
+14,3,229.826,21,Spencer Pigot,Ed Carpenter Racing,Dallara/Chevrolet,175.647,199,4,377229,2019
+15,24,227.717,4,Matheus Leist,ABC Supply AJ Foyt Racing,Dallara/Chevrolet,175.615,200,0,344129,2019
+16,30,227.244,39,Pippa Mann,Driven2SaveLives,Dallara/Chevrolet,175.571,200,0,200305,2019
+17,18,228.1,9,Scott Dixon,PNC Bank Ganassi Racing,Dallara/Honda,175.541,200,13,359204,2019
+18,12,228.523,3,Helio Castroneves,Pennzoil Team Penske,Dallara/Chevrolet,174.749,199,0,200305,2019
+19,31,227.74,24,Sage Karam,DRR WIX Filters,Dallara/Chevrolet,174.705,199,0,204305,2019
+20,21,227.908,48,JR Hildebrand,DRR Salesforce,Dallara/Chevrolet,174.699,199,0,200305,2019
+21,25,227.695,60,Jack Harvey,AutoNation / SiriusXM,Dallara/Honda,174.644,199,0,200305,2019
+22,19,227.991,77,Oriol Servia,MotoGator Team Stange Racing w/ Arrow SPM,Dallara/Honda,174.636,199,0,203305,2019
+23,13,228.511,7,Marcus Ericsson,Arrow Schmidt Peterson Motorsports,Dallara/Honda,173.751,198,0,384629,2019
+24,26,227.502,42,Jordan King,Rahal Letterman Lanigan Racing,Dallara/Honda,173.747,198,0,200805,2019
+25,20,227.915,23,Charlie Kimball,Fiasp Carlin,Dallara/Chevrolet,171.913,196,0,200305,2019
+26,10,228.756,98,Marco Andretti,U.S. Concrete / Curb,Dallara/Honda,170.966,195,0,334129,2019
+27,17,228.104,15,Graham Rahal,United Rentals,Dallara/Honda,Contact,176,0,334129,2019
+28,29,227.297,10,Felix Rosenqvist,NTT DATA Chip Ganassi Racing,Dallara/Honda,Contact,176,6,353279,2019
+29,28,227.341,26,Zach Veach,Gainbridge,Dallara/Honda,Contact,176,0,334129,2019
+30,7,228.621,18,Sebastien Bourdais,SealMaster,Dallara/Honda,Contact,176,0,342129,2019
+31,33,227.372,32,Kyle Kaiser,Juncos Racing,Dallara/Chevrolet,Contact,71,0,205305,2019
+32,27,227.482,81,Ben Hanley,10 Star DragonSpeed,Dallara/Honda,Mechanical,54,0,200805,2019
+33,5,229.086,88,Colton Herta,Harding Steinbrenner Racing,Dallara/Honda,Mechanical,3,0,351129,2019
+1,3,230.725,30,Takuma Sato,Panasonic / PeopleReady,Dallara/Honda,157.824,200,27,1370500,2020
+2,2,231.051,9,Scott Dixon,PNC Bank Chip Ganassi Racing,Dallara/Honda,157.823,200,111,505000,2020
+3,8,229.38,15,Graham Rahal,United Rentals,Dallara/Honda,157.823,200,0,403500,2020
+4,19,229.924,18,Santino Ferrucci,SealMaster,Dallara/Honda,157.819,200,1,300000,2020
+5,13,230.296,1,Josef Newgarden,Shell V-Power Nitro Team Penske,Dallara/Chevrolet,157.801,200,0,251000,2020
+6,15,230.213,5,Patricio O'Ward,Arrow McLaren SP,Dallara/Chevrolet,157.779,200,0,250500,2020
+7,6,229.87,29,James Hinchcliffe,Genesys,Dallara/Honda,157.765,200,1,100000,2020
+8,10,230.775,88,Colton Herta,Gleaners Food Bank of Indiana,Dallara/Honda,157.752,200,1,200500,2020
+9,20,229.861,60,Jack Harvey,AutoNation/SiriusXM,Dallara/Honda,157.73,200,0,200000,2020
+10,5,230.648,28,Ryan Hunter-Reay,DHL,Dallara/Honda,157.714,200,0,200000,2020
+11,28,228.373,3,Helio Castroneves,Pennzoil Team Penske,Dallara/Chevrolet,157.682,200,0,100000,2020
+12,14,230.254,10,Felix Rosenqvist,NTT DATA Chip Ganassi Racing,Dallara/Honda,157.631,200,8,200000,2020
+13,1,231.068,98,Marco Andretti,U.S. Concrete / Curb,Dallara/Honda,157.602,200,0,300000,2020
+14,22,229.701,12,Will Power,Verizon 5G Edge Team Penske,Dallara/Chevrolet,157.581,200,2,200000,2020
+15,17,229.961,26,Zach Veach,Gainbridge,Dallara/Honda,157.556,200,14,200000,2020
+16,32,226.341,67,JR Hildebrand,DRR Salesforce,Dallara/Chevrolet,157.545,200,0,100000,2020
+17,30,227.303,59,Max Chilton,Gallagher Carlin,Dallara/Chevrolet,157.527,200,0,200000,2020
+18,29,227.758,4,Charlie Kimball,Tresiba/AJ Foyt Racing,Dallara/Chevrolet,157.483,200,0,200000,2020
+19,23,229.154,14,Tony Kanaan,ABC Supply / AJ Foyt Racing,Dallara/Chevrolet,157.024,199,0,200000,2020
+20,4,230.704,21,Rinus VeeKay,SONAX,Dallara/Chevrolet,156.918,199,0,210000,2020
+21,26,228.768,66,Fernando Alonso,Ruoff Arrow McLaren SP,Dallara/Chevrolet,156.732,199,0,100000,2020
+22,25,228.836,22,Simon Pagenaud,Menards Team Penske,Dallara/Chevrolet,156.089,198,14,210000,2020
+23,33,222.917,81,Ben Hanley,DragonSpeed USA,Dallara/Chevrolet,156.062,198,0,100000,2020
+24,31,227.099,24,Sage Karam,DRR WIX Filters,Dallara/Chevrolet,155.992,198,0,100000,2020
+25,12,230.539,45,Spencer Pigot,Hy-Vee / Embrace Pittsburgh,Dallara/Honda,Contact,194,0,100000,2020
+26,16,230.211,20,Ed Carpenter,United States Space Force,Dallara/Chevrolet,147.274,187,0,200000,2020
+27,9,229.234,27,Alexander Rossi,NAPA Auto Parts / AutoNation,Dallara/Honda,Contact,143,17,200000,2020
+28,7,229.676,55,Alex Palou,Guaranteed Rate,Dallara/Honda,Contact,121,0,200500,2020
+29,18,229.955,47,Conor Daly,United States Air Force,Dallara/Chevrolet,Contact,91,0,100000,2020
+30,21,229.76,7,Oliver Askew,Arrow McLaren SP,Dallara/Chevrolet,Contact,91,4,200500,2020
+31,24,228.88,41,Dalton Kellett,K-Line USA / AJ Foyt Racing,Dallara/Chevrolet,Contact,82,0,100500,2020
+32,11,230.566,8,Marcus Ericsson,Huski Chocolate Chip Ganassi Racing,Dallara/Honda,Contact,24,0,100000,2020
+33,27,228.747,51,James Davison,Jacob Construction / Tilson HR,Dallara/Honda,Mechanical,4,0,100000,2020
+1,8,230.355,6,Helio Castroneves,AutoNation/SiriusXM,Dallara/Honda,190.69,200,20,1828305,2021
+2,6,230.616,10,Alex Palou,NTT DATA Chip Ganassi Racing,Dallara/Honda,190.68,200,35,0,2021
+3,26,229.778,22,Simon Pagenaud,Menards Team Penske,Dallara/Chevrolet,190.679,200,3,0,2021
+4,12,230.864,5,Patricio O'Ward,Arrow McLaren SP,Dallara/Chevrolet,190.671,200,17,0,2021
+5,4,231.504,20,Ed Carpenter,SONAX,Dallara/Chevrolet,190.665,200,0,0,2021
+6,23,229.949,45,Santino Ferrucci,Hy-Vee,Dallara/Honda,190.507,200,2,0,2021
+7,31,229.156,24,Sage Karam,DRR - AES INDIANA,Dallara/Chevrolet,190.419,200,2,0,2021
+8,3,231.511,21,Rinus VeeKay,Bitcoin,Dallara/Chevrolet,190.403,200,32,0,2021
+9,24,229.891,86,Juan Pablo Montoya,Arrow McLaren SP,Dallara/Chevrolet,190.39,200,0,0,2021
+10,5,231.032,48,Tony Kanaan,The American Legion,Dallara/Honda,190.379,200,0,0,2021
+11,9,230.318,8,Marcus Ericsson,Huski Chocolate Chip Ganassi Racing,Dallara/Honda,190.357,200,0,0,2021
+12,21,230.071,2,Josef Newgarden,Shell Fuel Rewards Team Penske,Dallara/Chevrolet,190.241,200,0,0,2021
+13,19,230.427,47,Conor Daly,U.S. Air Force,Dallara/Chevrolet,190.233,200,40,0,2021
+14,15,230.708,30,Takuma Sato,Panasonic / PeopleReady,Dallara/Honda,190.221,200,7,0,2021
+15,22,229.98,1,JR Hildebrand,ABC Supply / AJ Foyt Racing,Dallara/Chevrolet,190.216,200,0,0,2021
+16,2,231.655,26,Colton Herta,Gainbridge,Dallara/Honda,190.11,200,13,0,2021
+17,1,231.685,9,Scott Dixon,PNC Bank Grow Up Great,Dallara/Honda,189.913,200,7,0,2021
+18,20,230.191,60,Jack Harvey,AutoNation/SiriusXM,Dallara/Honda,189.883,200,0,0,2021
+19,25,229.872,98,Marco Andretti,Gleaners Food Bank of Indiana,Dallara/Honda,189.879,200,0,0,2021
+20,17,230.557,3,Scott McLaughlin,Pennzoil Team Penske,Dallara/Chevrolet,189.869,200,0,0,2021
+21,16,230.563,29,James Hinchcliffe,Genesys,Dallara/Honda,189.869,200,0,0,2021
+22,7,230.499,28,Ryan Hunter-Reay,DHL,Dallara/Honda,189.854,200,0,0,2021
+23,30,228.323,4,Dalton Kellett,K-Line Insulators / AJ Foyt Racing,Dallara/Chevrolet,189.612,199,0,0,2021
+24,29,229.417,59,Max Chilton,Carlin,Dallara/Chevrolet,189.417,199,0,0,2021
+25,13,230.846,51,Pietro Fittipaldi,Military Salutes NURTEC ODT,Dallara/Honda,189.308,199,0,0,2021
+26,27,229.744,14,Sebastien Bourdais,ROKiT / AJ Foyt Racing,Dallara/Chevrolet,189.229,199,0,0,2021
+27,14,230.744,7,Felix Rosenqvist,Arrow McLaren SP,Dallara/Chevrolet,189.213,199,14,0,2021
+28,11,231.044,18,Ed Jones,SealMaster,Dallara/Honda,188.997,199,0,0,2021
+29,10,231.046,27,Alexander Rossi,NAPA AUTO PARTS / AutoNation,Dallara/Honda,188.358,198,0,0,2021
+30,32,228.876,12,Will Power,Verizon 5G Team Penske,Dallara/Chevrolet,187.554,197,0,0,2021
+31,33,228.353,16,Simona de Silvestro,Rocket Pro TPO / Paretta Autosport,Dallara/Chevrolet,Contact,169,0,0,2021
+32,18,230.521,15,Graham Rahal,United Rentals,Dallara/Honda,Contact,118,8,0,2021
+33,28,229.714,25,Stefan Wilson,Lohla Sport,Dallara/Honda,Contact,32,0,0,2021
+1,5,232.764,8,Marcus Ericsson,Huski Chocolate Chip Ganassi Racing Honda,Dallara/Honda,175.428,200,13,3100000,2022
+2,7,232.705,5,Patricio O'Ward,Arrow McLaren SP Chevrolet,Dallara/Chevrolet,175.397,200,26,1000000,2022
+3,6,232.372,1,Tony Kanaan,The American Legion Chip Ganassi Racing Honda,Dallara/Honda,175.367,200,6,400000,2022
+4,8,232.182,7,Felix Rosenqvist,Vuse Arrow McLaren SP Chevrolet,Dallara/Chevrolet,175.357,200,0,570500,2022
+5,20,230.812,27,Alexander Rossi,NAPA AUTO PARTS / AutoNation Honda,Dallara/Honda,175.342,200,0,548000,2022
+6,18,230.999,20,Conor Daly,BitNile Chevrolet,Dallara/Chevrolet,175.341,200,7,527100,2022
+7,27,229.63,6,Helio Castroneves,AutoNation/SiriusXM Honda,Dallara/Honda,175.315,200,0,205300,2022
+8,16,231.275,60,Simon Pagenaud,AutoNation/SiriusXM Honda,Dallara/Honda,175.306,200,0,507000,2022
+9,2,233.499,10,Alex Palou,NTT DATA Chip Ganassi Racing Honda,Dallara/Honda,175.287,200,47,569600,2022
+10,15,231.508,23,Santino Ferrucci,Palermo's Screamin Sicilian DRR Chevrolet,Dallara/Chevrolet,175.26,200,0,134500,2022
+11,30,228.622,6,Juan Pablo Montoya,Arrow McLaren SP Chevrolet,Dallara/Chevrolet,175.229,200,0,127000,2022
+12,17,231.112,17,JR Hildebrand,Homes For Our Troops / ABC Supply Chevrolet,Dallara/Chevrolet,175.229,200,0,175300,2022
+13,14,231.58,2,Josef Newgarden,Shell Team Penske Chevrolet,Dallara/Chevrolet,175.226,200,0,530000,2022
+14,21,230.766,15,Graham Rahal,United Rentals Honda,Dallara/Honda,175.215,200,0,483000,2022
+15,11,231.534,12,Will Power,Verizon Team Penske Chevrolet,Dallara/Chevrolet,175.2,200,0,474300,2022
+16,13,231.607,18,David Malukas,HMD Honda,Dallara/Honda,175.195,200,0,463000,2022
+17,28,229.406,14,Kyle Kirkwood,ROKiT / AJ FOYT RACING Chevrolet,Dallara/Chevrolet,175.179,200,0,463000,2022
+18,31,227.053,30,Christian Lundgaard,PeopleReady Honda,Dallara/Honda,175.149,200,0,463000,2022
+19,4,233.08,33,Ed Carpenter,Alzamend Neuro Chevrolet,Dallara/Chevrolet,175.162,200,0,117000,2022
+20,24,230.326,29,Devlin DeFrancesco,PowerTap Honda,Dallara/Honda,175.158,200,0,463000,2022
+21,1,234.048,9,Scott Dixon,PNC Bank Chip Ganassi Racing Honda,Dallara/Honda,175.118,200,95,707000,2022
+22,23,230.345,98,Marco Andretti,KULR Technology / Curb Honda,Dallara/Honda,174.998,200,3,114400,2022
+23,22,230.464,24,Sage Karam,AES Indiana DRR Chevrolet,Dallara/Chevrolet,Contact,199,0,104500,2022
+24,32,226.851,45,Jack Harvey,Hy-Vee Honda,Dallara/Honda,174.247,199,0,158800,2022
+25,10,231.67,51,Takuma Sato,Nurtec ODT Honda,Dallara/Honda,174.175,199,0,462000,2022
+26,33,0.0,25,Stefan Wilson,DragonSpeed / Cusick Motorsports Chevrolet,Dallara/Chevrolet,173.344,198,0,102000,2022
+27,29,228.916,4,Dalton Kellett,K-LINE / AJ FOYT RACING Chevrolet,Dallara/Chevrolet,173.359,198,0,462000,2022
+28,12,231.264,48,Jimmie Johnson,Carvana Chip Ganassi Racing Honda,Dallara/Honda,Contact,193,2,207900,2022
+29,26,230.154,3,Scott McLaughlin,Pennzoil Team Penske Chevrolet,Dallara/Chevrolet,Contact,150,0,462000,2022
+30,25,230.235,26,Colton Herta,Gainbridge Honda,Dallara/Honda,Mechanical,129,0,469500,2022
+31,9,231.999,28,Romain Grosjean,DHL Honda,Dallara/Honda,Contact,105,0,478500,2022
+32,19,230.961,77,Callum Ilott,Juncos Hollinger Racing Chevrolet,Dallara/Chevrolet,Contact,68,0,463000,2022
+33,3,233.385,21,Rinus VeeKay,Bitcoin Racing Team with BitNile Chevrolet,Dallara/Chevrolet,Contact,38,1,487800,2022
+1,17,232.402,2,Josef Newgarden,Shell Powering Progress Team Penske,Dallara/Chevrolet,168.193,200,5,3666000,2023
+2,10,232.889,8,Marcus Ericsson,Huski Ice Spritz,Dallara/Honda,168.192,200,30,1043000,2023
+3,4,233.661,14,Santino Ferrucci,Homes For Our Troops,Dallara/Chevrolet,168.185,200,11,481800,2023
+4,1,234.217,10,Alex Palou,The American Legion,Dallara/Honda,168.181,200,36,801500,2023
+5,7,233.11,7,Alexander Rossi,Arrow McLaren,Dallara/Chevrolet,168.178,200,4,574000,2023
+6,6,233.151,9,Scott Dixon,PNC Bank Chip Ganassi Racing,Dallara/Honda,168.171,200,0,582000,2023
+7,8,233.098,11,Takuma Sato,Deloitte,Dallara/Honda,168.169,200,2,217300,2023
+8,16,232.433,20,Conor Daly,Bitnile.com,Dallara/Honda,168.164,200,0,512000,2023
+9,21,231.951,26,Colton Herta,Gainbridge,Dallara/Honda,168.159,200,1,506500,2023
+10,2,234.211,21,Rinus VeeKay,Bitnile.com,Dallara/Chevrolet,168.142,200,24,556500,2023
+11,18,232.133,23,Ryan Hunter-Reay,Dreyer & Reinbold Racing,Dallara/Chevrolet,168.14,200,8,145500,2023
+12,27,231.182,77,Callum Ilott,Juncos Hollinger Racing,Dallara/Chevrolet,168.13,200,5,495500,2023
+13,25,231.353,29,Devlin DeFrancesco,Sodexo,Dallara/Honda,168.119,200,0,482000,2023
+14,14,232.677,3,Scott McLaughlin,Pennzoil Team Penske,Dallara/Chevrolet,168.115,200,0,485000,2023
+15,20,231.954,6,Helio Castroneves,AutoNation/SiriusXM,Dallara/Honda,168.108,200,1,481500,2023
+16,9,233.076,66,Tony Kanaan,Arrow McLaren,Dallara/Chevrolet,168.104,200,0,105000,2023
+17,24,231.682,98,Marco Andretti,KULR / Curb,Dallara/Honda,168.052,200,0,102000,2023
+18,32,229.166,30,Jack Harvey,Kustom Entertainment,Dallara/Honda,167.221,199,0,472000,2023
+19,30,229.649,45,Christian Lundgaard,Hy-Vee,Dallara/Honda,166.375,198,0,467500,2023
+20,13,232.689,33,Ed Carpenter,Bitnile.com,Dallara/Chevrolet,Contact,197,0,102000,2023
+21,11,232.671,55,Benjamin Pedersen,AJ FOYT RACING / SEXTON PROPERTIES,Dallara/Chevrolet,Contact,196,0,215300,2023
+22,33,231.648,24,Graham Rahal,DRR Cusick CareKeepers,Dallara/Chevrolet,169.783,195,0,565500,2023
+23,12,232.635,12,Will Power,Verizon Team Penske,Dallara/Chevrolet,163.803,195,1,488000,2023
+24,5,233.158,5,Patricio O'Ward,Arrow McLaren,Dallara/Chevrolet,Contact,192,39,516500,2023
+25,22,231.878,60,Simon Pagenaud,AutoNation/SiriusXM,Dallara/Honda,Contact,192,0,465500,2023
+26,26,231.32,78,Agustin Canapino,Juncos Hollinger Racing,Dallara/Chevrolet,Contact,192,0,156300,2023
+27,3,234.114,6,Felix Rosenqvist,Arrow McLaren,Dallara/Chevrolet,Contact,183,33,278300,2023
+28,15,232.662,27,Kyle Kirkwood,AutoNation,Dallara/Honda,Contact,183,0,465500,2023
+29,23,231.769,18,David Malukas,HMD Trucking,Dallara/Honda,Contact,160,0,462000,2023
+30,19,231.997,28,Romain Grosjean,DHL,Dallara/Honda,Contact,149,0,462000,2023
+31,31,229.549,51,Sting Ray Robb,biohaven,Dallara/Honda,Contact,90,0,463000,2023
+32,28,231.129,50,RC Enerson,Abel Motorsports,Dallara/Chevrolet,Mechanical,75,0,103000,2023
+33,29,231.07,44,Katherine Legge,Hendrickson,Dallara/Honda,Contact,41,0,102000,2023
